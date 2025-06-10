@@ -1,0 +1,95 @@
+.pagelogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  max-inline-size: 100%;
+}
+
+body, h1, h2, h3, p
+{
+  font-family: league spartan;
+  display: inline-block;
+  
+}
+
+table {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #ffeada;
+}
+
+tr:nth-child(odd) {
+  background-color: #662c05;
+  color: #ffeada;
+}
+
+.table-container {
+  display: flex;
+  justify-content: center;
+}
+
+ #about, h2  {
+  text-align: center;
+ }
+
+ img {
+  display: block;
+  justify-content: center;
+  max-inline-size: 100%;
+ }
+ /* The above code for the img selector is from Kevin Powell's tutorial
+ "HTML & CSS for Absolute Beginners: Responsive images" 
+ link in readme file */
+ 
+
+ #gallery, p {
+  text-align: center;
+ }
+
+ #home, h1, h3, h4 {
+  text-align: center;
+ }
+
+.league-spartan {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.navbar {
+  background-color: #ffeada;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+  .footer {
+    color: #E3AA75;
+    display: inline-flexbox;
+    justify-content: space-around;
+    text-wrap: balance;
+    background-color:#662c05;
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.site {
+  min-height: 100dvh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: minmax(0, 1fr); 
+}
+
+  
+  @media screen (576px) and (768px) and (992px) and (1200px)
+  {
+  min-width: 100vh; 
+  
+  }
+
+/* reference for code for responsive footer [https://reintech.io/blog/creating-responsive-footer-with-css]*/
+/* Media queries for logo on navbar */
+
+
+
+
