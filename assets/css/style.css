@@ -61,6 +61,23 @@ tr:nth-child(odd) {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+#i {
+  display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+#i2 {
+    display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+#i3 {
+    display: flex;
+ justify-content: center;
+ align-items: center;
+}
 
   .footer {
     color: #E3AA75;
