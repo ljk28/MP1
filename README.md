@@ -32,6 +32,8 @@ The footer has much needed contact information from the location and address to 
 <img src="assets/screenshots/prices.png" alt="mobilehome" width="200" height="auto">
 <img src="assets/screenshots/middletablet.jpeg" alt="mobilehome" width="200" height="auto">
 
+---
+
 # Contents 
 1. [User story 1](#user-story-1) 
 2. [User story 2](#user-story-2)
@@ -321,12 +323,16 @@ Image sizing:
 
 [https://www.youtube.com/watch?v=mPZLxhgTKCU]
 
-HTML & CSS for Absolute Beginners: Responsive images
+*"HTML & CSS for Absolute Beginners: Responsive images"*
 [https://www.youtube.com/watch?v=gn0OaxS1OdY]
+
+*"Figma Wireframe Tutorial for Beginners (2025)"*
+
 
 ## Programs/languages/applications/websites used in the construction;
 <ul>
 <li>W3Schools</li>
+<li>Aliena Cai</li>
 <li>MDN Docs</li>
 <li>Bootstrap</li>
 <li>HTML</li>
