@@ -362,7 +362,7 @@ I wanted to have a hamburger menu to match my wireframes but somehow this was mo
 
 Lighthouse flagged SEO as an issue. With the icons and also accessibilty. I have spaced out the social media icons in the footer so that should aid the user. Not everything was altered to the desired wireframe images. 
 
-<em>Please note: the labels and option/select tags don't have a calculation function/operation for the total on the order page, as this requires additional languages. (Apart from Bootsrap), this project solely was working with HTML and CSS and not Javacript<em>
+<em>Please note: the labels and option/select tags don't have a calculation function/operation for the total on the order page, as this requires additional languages. (Apart from Bootstrap), this project was solely working with HTML and CSS and not Javacript<em>
 
 ### Deploying the website
 
