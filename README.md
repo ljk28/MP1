@@ -359,14 +359,19 @@ Not being able to push commits as somehow it stopped working. Thus, forcing me t
 With Bootstrap there was an issue when things didn't seem to work. The j.script was either in the wrong place or it was outdated/not matching. 
 
 I wanted to have a hamburger menu to match my wireframes but somehow this was more challenging and elusive. Fortunately the Bootstrap code gives us one in the navbar. 
+
+Lighthouse flagged SEO as an issue. With the icons and also accessibilty. I have spaced out the social media icons in the footer so that should aid the user. Not everything was altered to the desired wireframe images. 
 ### Deploying the website
 
 <ol>
-1. Go to "Pages" on the Gitub settings in the repository.
-2. Deploy from main branch.
-3. Save changes.
+<li>Go to "Pages" on the Gitub settings in the chosen repository.</li>
+<li> Deploy from "main" branch.</li>
+<li>Save changes.</li>
+</ol>
+<br>
 
-For further help refer to the following:
+For further help refer to the following:<br>
+
 [https://everhour.com/blog/how-to-host-website-on-github/#:~:text=Go%20to%20the%20website%20repository,Save%20your%20publishing%20source]
 
 [https://docs.github.com/en/pages/quickstart]
