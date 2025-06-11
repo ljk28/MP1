@@ -361,6 +361,9 @@ With Bootstrap there was an issue when things didn't seem to work. The j.script 
 I wanted to have a hamburger menu to match my wireframes but somehow this was more challenging and elusive. Fortunately the Bootstrap code gives us one in the navbar. 
 
 Lighthouse flagged SEO as an issue. With the icons and also accessibilty. I have spaced out the social media icons in the footer so that should aid the user. Not everything was altered to the desired wireframe images. 
+
+<em>Please note: the labels and option/select tags don't have a calculation function/operation for the total on the order page, as this requires additional languages. (Apart from Bootsrap), this project solely was working with HTML and CSS and not Javacript<em>
+
 ### Deploying the website
 
 <ol>
