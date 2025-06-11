@@ -93,6 +93,7 @@ tr:nth-child(odd) {
 .smedia {
   display: flex;
   justify-content: space-around;
+  color: #E3AA75;
 }
 
 
@@ -106,6 +107,12 @@ tr:nth-child(odd) {
     font-size: medium;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
+
+#face, #insta, #twitter-x {
+  display: flex;
+  color: #E3AA75;
+}
+
 
 .site {
   min-height: 100dvh;
