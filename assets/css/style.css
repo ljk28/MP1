@@ -90,6 +90,10 @@ tr:nth-child(odd) {
  align-items: center;
 }
 
+.smedia {
+  display: flex;
+  justify-content: space-around;
+}
 
   .footer {
     color: #E3AA75;
