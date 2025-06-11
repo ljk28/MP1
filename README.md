@@ -9,6 +9,7 @@ They want to be able to use this to ensure potential customers (both corporate a
 They do delivery or pick up. 
 
 
+
 # Rationale
 ## Purpose 
 The purpose of creating this website is to ensure the family run business meets the needs of its current and potential customers. They want to very much be in the 21st century and utilizing technology is a great way to achieve this. Expanding from their current address to online orders enables them to reach a wider customer base.
@@ -24,7 +25,12 @@ The footer has much needed contact information from the location and address to 
 
 
 ---
-
+<img src="assets/screenshots/homepagemob.jpeg" alt="screenshot" width="200" height="auto">
+<img src="assets/screenshots/bourbon2.png" alt="mobilehome" width="200" height="auto">
+<img src="assets/screenshots/testimoniesmob.png" alt="mobilehome" width="200" height="auto">
+<img src="assets/screenshots/biscuitfam.jpeg" alt="homedesktop" width="200" height="auto">
+<img src="assets/screenshots/prices.png" alt="mobilehome" width="200" height="auto">
+<img src="assets/screenshots/middletablet.jpeg" alt="mobilehome" width="200" height="auto">
 
 # Contents 
 1. [User story 1](#user-story-1) 
