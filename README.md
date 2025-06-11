@@ -360,3 +360,15 @@ With Bootstrap there was an issue when things didn't seem to work. The j.script 
 
 I wanted to have a hamburger menu to match my wireframes but somehow this was more challenging and elusive. Fortunately the Bootstrap code gives us one in the navbar. 
 ### Deploying the website
+
+<ol>
+1. Go to "Pages" on the Gitub settings in the repository.
+2. Deploy from main branch.
+3. Save changes.
+
+For further help refer to the following:
+[https://everhour.com/blog/how-to-host-website-on-github/#:~:text=Go%20to%20the%20website%20repository,Save%20your%20publishing%20source]
+
+[https://docs.github.com/en/pages/quickstart]
+
+Thankyou for reading this Readme file.
