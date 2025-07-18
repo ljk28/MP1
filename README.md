@@ -2,16 +2,13 @@
 
 <img src="assets/images/logo.png">
 
-## Description
+# Rationale
 -Disclaimer : THIS IS A FICTIONAL BAKERY -
 A British biscuit bakery is commemorating its 10th year and wants to showcase their exquisite biscuit selection with a fresh new website.
 They want to be able to use this to ensure potential customers (both corporate and public) know what they sell and order via an order page.
 They do delivery or pick up. 
 
-
-
-# Rationale
-## Purpose 
+ 
 The purpose of creating this website is to ensure the family run business meets the needs of its current and potential customers. They want to very much be in the 21st century and utilizing technology is a great way to achieve this. Expanding from their current address to online orders enables them to reach a wider customer base.
 
 The users all have differing needs and wants. From fast turn-around for delivery to an easily accessible website to place orders.
@@ -327,6 +324,7 @@ Image sizing:
 [https://www.youtube.com/watch?v=gn0OaxS1OdY]
 
 *"Figma Wireframe Tutorial for Beginners (2025)"*
+[https://www.youtube.com/watch?v=iyrEStiTZh0]
 
 
 ## Programs/languages/applications/websites used in the construction;
