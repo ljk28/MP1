@@ -381,9 +381,13 @@ Here 4 errors were found for css...
 ![alt text](<W3C CSS Validator results for TextArea (CSS level 3 + SVG).jpeg>)
 
 For HTML the index page had the following issues for the validation...
+![alt text](<Nu Htmi Chocker.jpeg>)
 
+![alt text](<html indexhome page validator.jpeg>)
 
+![alt text](<html indexhome page validator-1.jpeg>)
 
+![alt text](<html indexhome page validator-2.jpeg>)
 
 ### Deploying the website
 
