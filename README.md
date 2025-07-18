@@ -47,6 +47,8 @@ The footer has much needed contact information from the location and address to 
 10. [Using Github to clone the repository](#using-github-to-clone-the-repository)
 11. [Links/images used references](#linksimages-used-and-references) 
 12. [Deploying the website](#deploying-the-website)
+13. [Validating HTML/CSS]
+(#validating-html-css)
 
 ### User story 1
 An estate agent wants to mark their one year anniversary of being in business by throwing a biscuit party for its workers. Profits are through the roof. They live a biscuits throw away from the bakery so can pick up a batch order when it's ready. 
@@ -374,6 +376,15 @@ Lighthouse flagged SEO as an issue. With the icons and also accessibilty. I have
 
 <em>Please note: the labels and option/select tags don't have a calculation function/operation for the total on the order page, as this requires additional languages. (Apart from Bootstrap), this project was solely working with HTML and CSS and not Javacript<em>
 
+### Validating HTML/CSS
+Here 4 errors were found for css...
+![alt text](<W3C CSS Validator results for TextArea (CSS level 3 + SVG).jpeg>)
+
+For HTML the index page had the following issues for the validation...
+
+
+
+
 ### Deploying the website
 
 <ol>
@@ -389,4 +400,8 @@ For further help refer to the following:<br>
 
 [https://docs.github.com/en/pages/quickstart]
 
-Thankyou for reading this Readme file.
+
+Thankyou for reading this Readme file. 
+
+
+
