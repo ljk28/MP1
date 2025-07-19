@@ -426,6 +426,13 @@ The html testimonies page retrieved 11 errors...
 ![alt text](<Html about, prices, testimonies validation-15.jpeg>)
 ![alt text](<Html about, prices, testimonies validation-16.jpeg>)
 
+And finally for the html gallery page there were 10 errors after validation...
+![alt text](<Html about, prices, testimonies validation-17.jpeg>)
+![alt text](<Html about, prices, testimonies validation-18.jpeg>)
+![alt text](<Html about, prices, testimonies validation-19.jpeg>)
+![alt text](<Html about, prices, testimonies validation-20.jpeg>)
+![alt text](<Html about, prices, testimonies validation-21.jpeg>)
+![alt text](<Html about, prices, testimonies validation-22.jpeg>)
 
 ### Deploying the website
 
