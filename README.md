@@ -397,6 +397,17 @@ For the html order page there were 14 errors...
 ![alt text](<Html order page-3.jpeg>)
 ![alt text](<Html order page-4.jpeg>)
 
+The order success page retrieved 11 errors...
+![alt text](<Html order page-5.jpeg>)
+![alt text](<Html order page-6.jpeg>)
+![alt text](<Html order page-7.jpeg>)
+![alt text](<Html order page-8.jpeg>)
+
+The about page had errors...
+
+
+
+
 
 ### Deploying the website
 
