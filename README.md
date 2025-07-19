@@ -389,8 +389,13 @@ For HTML the index page had the following issues for the validation...
 
 ![alt text](<html indexhome page validator-2.jpeg>)
 
-For the html order page...
+For the html order page there were 14 errors...
 
+![alt text](<Html order page.jpeg>)
+![alt text](<Html order page-1.jpeg>)
+![alt text](<Html order page-2.jpeg>)
+![alt text](<Html order page-3.jpeg>)
+![alt text](<Html order page-4.jpeg>)
 
 
 ### Deploying the website
