@@ -7,7 +7,6 @@
 A British biscuit bakery is commemorating its 10th year and wants to showcase their exquisite biscuit selection with a fresh new website.
 They want to be able to use this to ensure potential customers (both corporate and public) know what they sell and order via an order page.
 They do delivery or pick up. 
-
  
 The purpose of creating this website is to ensure the family run business meets the needs of its current and potential customers. They want to very much be in the 21st century and utilizing technology is a great way to achieve this. Expanding from their current address to online orders enables them to reach a wider customer base.
 
@@ -20,15 +19,17 @@ This website has been made mobile friendly and scales up to accommodate larger s
 
 The footer has much needed contact information from the location and address to the telephone number. This ensures that customers/users have a fall back option.  
 
+> 📝 Note: The <a id="validation">validation</a> section is highlighted in yellow if you wish to go straight there
 
 ---
+<p style="text-align:center">
 <img src="assets/screenshots/homepagemob.jpeg" alt="screenshot" width="200" height="auto">
 <img src="assets/screenshots/bourbon2.png" alt="mobilehome" width="200" height="auto">
 <img src="assets/screenshots/testimoniesmob.png" alt="mobilehome" width="200" height="auto">
 <img src="assets/screenshots/biscuitfam.jpeg" alt="homedesktop" width="200" height="auto">
 <img src="assets/screenshots/prices.png" alt="mobilehome" width="200" height="auto">
 <img src="assets/screenshots/middletablet.jpeg" alt="mobilehome" width="200" height="auto">
-
+</p>
 ---
 
 # Contents 
@@ -46,7 +47,7 @@ The footer has much needed contact information from the location and address to 
 9. [Testimonies](#testimony-page)
 10. [Using Github to clone the repository](#using-github-to-clone-the-repository)
 11. [Links/images used references](#linksimages-used-and-references) 
-12.  [<p style="color:yellow">Validation For CSS and HTML</p>](#validation-for-css-and-html) 
+12.  [Validation For CSS and HTML](#validation-for-css-and-html) 
 13. [Deploying the website](#deploying-the-website)
 
 
@@ -75,10 +76,10 @@ Bootstrap code for form and table
 Wireframes for each display size
 
 ## Homepage
-
+<p style="text-align:center">
 <img src="assets/wireframes/mobile/home.jpeg" alt="mobilehome" width="200" height="auto">
 <img src="assets/wireframes/tablet/HomePage.jpeg" alt="homepage" width="350" height="auto">
-<img src="assets/wireframes/desktop/=.jpeg" alt="homepage" width="400" height="auto">
+<img src="assets/wireframes/desktop/=.jpeg" alt="homepage" width="400" height="auto"></p>
 
 
 
@@ -108,11 +109,12 @@ Wireframes for each display size
 ---
 
 ## Gallery
+<p style="text-align:center">
 <img src="assets/wireframes/mobile/gallerymobile.jpeg" alt="gallery" width="200" height="auto">
 <img src="assets/wireframes/tablet/Gallery.jpeg" alt="gallery" width="200" height="auto">
 <img src="assets/wireframes/tablet/Gallery 2.jpeg" alt="gallery" width="200" height="auto">
 <img src="assets/wireframes/desktop/Gallery.jpeg" alt="gallery" width="350" height="auto">
-<img src="assets/wireframes/desktop/Gallery 2.jpeg" alt="gallery" width="350" height="auto">
+<img src="assets/wireframes/desktop/Gallery 2.jpeg" alt="gallery" width="350" height="auto"></p>
 
 
 ### Favicon
@@ -144,11 +146,12 @@ Wireframes for each display size
 ---
 
 ## Prices
+<p style="text-align:center">
 <img src="assets/wireframes/mobile/pricesmobile.jpeg" alt="prices" width="200" height="auto">
 <img src="assets/wireframes/tablet/Prices.jpeg" alt="prices" width="300" height="auto">
 <br>
 <img src="assets/wireframes/desktop/Image.jpeg" alt="prices" width="400" height="auto">
-
+</p>
 
 
 ## Favicon
@@ -181,12 +184,14 @@ Wireframes for each display size
 ---
 
 ## Order Page
+<p style="text-align:center">
 <img src="assets/wireframes/mobile/ordermobile.jpeg" alt="order1" width="150" height="auto">
 <img src="assets/wireframes/mobile/ordersuccessfulmob.jpeg" alt="order2" width="150" height="auto">
 <img src="assets/wireframes/tablet/Milestone1wireframes tablet 3.jpeg" alt="ordertablet" width="150" height="auto">
 <img src="assets/wireframes/tablet/Order on its.jpeg" alt="ordertablet" width="150" height="auto">
 <img src="assets/wireframes/desktop/Wireframesdesktop.jpeg" alt="orderdesktop" width="280" height="auto">
 <img src="assets/wireframes/desktop/Wireframesdesktop 4.jpeg" alt="orderdesktop2" width="280" height="auto">
+</p>
 
 
 ### Favicon
@@ -215,9 +220,11 @@ Wireframes for each display size
 ---
 
 ## About Page
+<p style="text-align:center">
 <img src="assets/wireframes/mobile/Quotation 2.jpeg" alt="about" width="200" height="auto">
 <img src="assets/wireframes/tablet/Main text,.jpeg" alt="abouttablet" width="300" height="auto">
 <img src="assets/wireframes/desktop/Description.jpeg" alt="about" width="350" height="auto">
+</p>
 
 ## Favicon
 ### Header with logo
@@ -244,9 +251,11 @@ Information about loyalty scheme and rewards
 ---
 
 ## Testimony Page
+<p style="text-align:center">
 <img src="assets/wireframes/mobile/testimoniesmob.jpeg" alt="testimony" width="200" height="auto">
 <img src="assets/wireframes/tablet/Testimonies.jpeg" alt="testimony" width="300" height="auto">
 <img src="assets/wireframes/desktop/Testimonies.jpeg" alt="testimoniesdesktop" width="350" height="auto">
+</p>
 
 ## Favicon
 ### Header with logo
@@ -378,7 +387,7 @@ Lighthouse flagged SEO as an issue. With the icons and also accessibilty. I have
 <em>Please note: the labels and option/select tags don't have a calculation function/operation for the total on the order page, as this requires additional languages. (Apart from Bootstrap), this project was solely working with HTML and CSS and not Javacript<em>
 
 
-### <p style="color:yellow">Validation For CSS and HTML</p>
+### Validation For CSS and HTML
 
 
 Here are 4 errors that were found for CSS validation...
