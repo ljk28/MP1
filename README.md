@@ -19,7 +19,6 @@ This website has been made mobile friendly and scales up to accommodate larger s
 
 The footer has much needed contact information from the location and address to the telephone number. This ensures that customers/users have a fall back option.  
 
-> 📝 Note: The <a id="validation">validation</a> section is highlighted in yellow if you wish to go straight there
 
 ---
 <p style="text-align:center">
@@ -47,7 +46,7 @@ The footer has much needed contact information from the location and address to 
 9. [Testimonies](#testimony-page)
 10. [Using Github to clone the repository](#using-github-to-clone-the-repository)
 11. [Links/images used references](#linksimages-used-and-references) 
-12.  [Validation For CSS and HTML](#validation-for-css-and-html) 
+12.  [Validation For CSS and HTML](#validation) 
 13. [Deploying the website](#deploying-the-website)
 
 
@@ -386,9 +385,10 @@ Lighthouse flagged SEO as an issue. With the icons and also accessibilty. I have
 
 <em>Please note: the labels and option/select tags don't have a calculation function/operation for the total on the order page, as this requires additional languages. (Apart from Bootstrap), this project was solely working with HTML and CSS and not Javacript<em>
 
-
-### Validation For CSS and HTML
-
+## Validation
+<p style="color:yellow">
+Validation For CSS and HTML
+</p>
 
 Here are 4 errors that were found for CSS validation...
 ![alt text](<W3C CSS Validator results for TextArea (CSS level 3 + SVG).jpeg>)
