@@ -46,8 +46,10 @@ The footer has much needed contact information from the location and address to 
 9. [Testimonies](#testimony-page)
 10. [Using Github to clone the repository](#using-github-to-clone-the-repository)
 11. [Links/images used references](#linksimages-used-and-references) 
-12. [Deploying the website](#deploying-the-website)
-13. [Validation For CSS and HTML](#validation-for-css-and-html)
+12.  [<p style="color:yellow">Validation For CSS and HTML</p>](#validation-for-css-and-html) 
+13. [Deploying the website](#deploying-the-website)
+
+
 
 ### User story 1
 An estate agent wants to mark their one year anniversary of being in business by throwing a biscuit party for its workers. Profits are through the roof. They live a biscuits throw away from the bakery so can pick up a batch order when it's ready. 
@@ -375,7 +377,9 @@ Lighthouse flagged SEO as an issue. With the icons and also accessibilty. I have
 
 <em>Please note: the labels and option/select tags don't have a calculation function/operation for the total on the order page, as this requires additional languages. (Apart from Bootstrap), this project was solely working with HTML and CSS and not Javacript<em>
 
-### Validation For CSS and HTML
+
+### <p style="color:yellow">Validation For CSS and HTML</p>
+
 
 Here are 4 errors that were found for CSS validation...
 ![alt text](<W3C CSS Validator results for TextArea (CSS level 3 + SVG).jpeg>)
@@ -433,6 +437,8 @@ And finally for the html gallery page there were 10 errors after validation...
 ![alt text](<Html about, prices, testimonies validation-20.jpeg>)
 ![alt text](<Html about, prices, testimonies validation-21.jpeg>)
 ![alt text](<Html about, prices, testimonies validation-22.jpeg>)
+
+ <p style="color:yellow">Addressing validaton and correcting errors</p>
 
 ### Deploying the website
 
