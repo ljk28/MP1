@@ -418,6 +418,14 @@ The HTML prices page had 13 errors...
 ![alt text](<Html about, prices, testimonies validation-9.jpeg>)
 ![alt text](<Html about, prices, testimonies validation-10.jpeg>)
 
+The html testimonies page retrieved 11 errors...
+![alt text](<Html about, prices, testimonies validation-11.jpeg>)
+![alt text](<Html about, prices, testimonies validation-12.jpeg>)
+![alt text](<Html about, prices, testimonies validation-13.jpeg>)
+![alt text](<Html about, prices, testimonies validation-14.jpeg>)
+![alt text](<Html about, prices, testimonies validation-15.jpeg>)
+![alt text](<Html about, prices, testimonies validation-16.jpeg>)
+
 
 ### Deploying the website
 
