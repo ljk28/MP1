@@ -403,8 +403,12 @@ The order success page retrieved 11 errors...
 ![alt text](<Html order page-7.jpeg>)
 ![alt text](<Html order page-8.jpeg>)
 
-The about page had errors...
-
+The about page had 15 errors...
+![alt text](<Html about, prices, testimonies validation.jpeg>)
+![alt text](<Html about, prices, testimonies validation-1.jpeg>)
+![alt text](<Html about, prices, testimonies validation-2.jpeg>)
+![alt text](<Html about, prices, testimonies validation-3.jpeg>)
+![alt text](<Html about, prices, testimonies validation-4.jpeg>)
 
 
 
