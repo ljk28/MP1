@@ -26,7 +26,10 @@ It seemed like a good idea. Something familiar and unobtrusive. Something that w
 > Please Note:  
 I don't live at Biscuit lane or Biscuit Avenue
 
+### Development of logo and favicon
 
+The logo and favicon are simple and clutter free.
+A clean look with a logo that isn't too busy and communicates effectively what the compnay does.
 
 ---
 <p style="text-align:center">
