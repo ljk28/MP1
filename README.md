@@ -21,7 +21,7 @@ The footer has much needed contact information from the location and address to 
 
 ## Inspiration 
 Why do this project about biscuits? Well, in our household we eat biscuits. Every day. A lot. 
-It seemed like a good idea. Somehthing familiar and unobtrusive. Something that would be an easy choice for the first milestone. 
+It seemed like a good idea. Something familiar and unobtrusive. Something that would be an easy choice for the first milestone. 
 
 > Please Note:  
 I don't live at Biscuit lane or Biscuit Avenue
@@ -55,8 +55,9 @@ I don't live at Biscuit lane or Biscuit Avenue
 9. [Testimonies](#testimony-page)
 10. [Using Github to clone the repository](#using-github-to-clone-the-repository)
 11. [Links/images used references](#linksimages-used-and-references) 
-12.  [Validation For CSS and HTML](#validation) 
-13. [Deploying the website](#deploying-the-website)
+12. [Issues and Bugs](#issues-and-bugs)
+13.  [Validation For CSS and HTML](#validation) 
+14. [Deploying the website](#deploying-the-website)
 
 
 
@@ -89,7 +90,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 and 
 https://www.youtube.com/shorts/Y03AqLiBMGk
 This saved me from having to use javascript and kept things neat and tidy on the webpage.
-Espcially benefical for the FAQ page.
+Espcially benefical for the FAQ section.
 The user can easily access the extra information by a siple click on the heading/tag.
 ## Homepage
 <p style="text-align:center">
@@ -401,6 +402,11 @@ I wanted to have a hamburger menu to match my wireframes but somehow this was mo
 Lighthouse flagged SEO as an issue. With the icons and also accessibilty. I have spaced out the social media icons in the footer so that should aid the user. Not everything was altered to the desired wireframe images. 
 
 <em>Please note: the labels and option/select tags don't have a calculation function/operation for the total on the order page, as this requires additional languages. (Apart from Bootstrap), this project was solely working with HTML and CSS and not Javacript<em>
+
+...Extra Information
+
+With the use of the summary and details tag/elements I decided to remove the FAQ section from the order page and for clarity, place the FAQ section within the home page instead. 
+The reason for doing this is to prevent ambiguity for the user and show clearly WITHOUT having to navigate to another page, the needed information at a moments notice.
 
 ## Validation
 <p style="color:yellow">
