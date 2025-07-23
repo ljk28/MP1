@@ -8,16 +8,11 @@
 body, main, h1, h2, h3, p
 {
   font-family: league spartan;
-  background-image: url('/assets/images/falling-biscuits.jpg');
+  background-image: url(/images/falling-biscuits.jpg);
   
 }
 
-#container-background {
-  background-image: url('/assets/images/falling-biscuits.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-}
+
 table {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: #ffeada;
