@@ -2,6 +2,30 @@
 
 <img src="assets/images/logo.png">
 
+# Contents 
+1. [Rationale](#rationale)
+2. [Inspiration](#inspiration)
+3. [Development](#development)
+1. [User story 1](#user-story-1) 
+2. [User story 2](#user-story-2)
+3. [User story 3](#user-story-3)
+4. [User design/experience](#user-designexperience)
+   1. Colour palatte for design
+   2. Bootstrap code for form and table
+   3. Wireframes for each display size (within each page below)
+   4. Using summary and details tags/elements
+5. [Homepage](#homepage)
+6. [Prices Page](#prices)
+7. [Order page](#order-page)
+8. [About page](#about-page)
+9. [Testimonies](#testimony-page)
+10. [Using Github to clone the repository](#using-github-to-clone-the-repository)
+11. [Links/images used references](#linksimages-used-and-references) 
+12. [Issues and Bugs](#issues-and-bugs)
+13.  [Validation For CSS and HTML](#validation) 
+14. [Deploying the website](#deploying-the-website)
+
+
 # Rationale
 -Disclaimer : THIS IS A FICTIONAL BAKERY -
 A British biscuit bakery is commemorating its 10th year and wants to showcase their exquisite biscuit selection with a fresh new website.
@@ -42,27 +66,6 @@ A clean look with a logo that isn't too busy and communicates effectively what t
 <img src="assets/screenshots/middletablet.jpeg" alt="mobilehome" width="200" height="auto">
 </p>
 ---
-
-# Contents 
-1. [User story 1](#user-story-1) 
-2. [User story 2](#user-story-2)
-3. [User story 3](#user-story-3)
-4. [User design/experience](#user-designexperience)
-   1. Colour palatte for design
-   2. Bootstrap code for form and table
-   3. Wireframes for each display size (within each page below)
-   4. Using summary and details tags/elements
-5. [Homepage](#homepage)
-6. [Prices Page](#prices)
-7. [Order page](#order-page)
-8. [About page](#about-page)
-9. [Testimonies](#testimony-page)
-10. [Using Github to clone the repository](#using-github-to-clone-the-repository)
-11. [Links/images used references](#linksimages-used-and-references) 
-12. [Issues and Bugs](#issues-and-bugs)
-13.  [Validation For CSS and HTML](#validation) 
-14. [Deploying the website](#deploying-the-website)
-
 
 
 ### User story 1
