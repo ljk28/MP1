@@ -29,7 +29,7 @@ I don't live at Biscuit lane or Biscuit Avenue
 ### Development of logo and favicon
 
 The logo and favicon are simple and clutter free.
-A clean look with a logo that isn't too busy and communicates effectively what the compnay does.
+A clean look with a logo that isn't too busy and communicates effectively what the company does.
 
 ---
 <p style="text-align:center">

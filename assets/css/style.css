@@ -38,16 +38,23 @@ tr:nth-child(odd) {
  /* The above code for the img selector is from Kevin Powell's tutorial
  "HTML & CSS for Absolute Beginners: Responsive images" 
  link in readme file */
- 
+  
+/* Below are the 'details', 'amount' and 'biscuit' id's and classes which are additional to style and centre the order and home pages respectively */  
 .details {
   display: grid;
   justify-content: center;
    text-align: center;
 }
 
+
 #biscuit {
   text-align: center;
 }
+
+#amount {
+  text-align: center;
+}
+
  #gallery, p {
   text-align: center;
  }
