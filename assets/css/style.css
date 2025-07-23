@@ -55,6 +55,10 @@ tr:nth-child(odd) {
   text-align: center;
 }
 
+#pick-up {
+   text-align: center;
+}
+
  #gallery, p {
   text-align: center;
  }
