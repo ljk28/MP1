@@ -23,6 +23,11 @@ The footer has much needed contact information from the location and address to 
 Why do this project about biscuits? Well, in our household we eat biscuits. Every day. A lot. 
 It seemed like a good idea. Somehthing familiar and unobtrusive. Something that would be an easy choice for the first milestone. 
 
+> Please Note:  
+I don't live at Biscuit lane or Biscuit Avenue
+
+
+
 ---
 <p style="text-align:center">
 <img src="assets/screenshots/homepagemob.jpeg" alt="screenshot" width="200" height="auto">
