@@ -50,12 +50,45 @@ It seemed like a good idea. Something familiar and unobtrusive. Something that w
 > Please Note:  
 I don't live at Biscuit lane or Biscuit Avenue
 
-### Development
-#### Logo Design
+## Development
+### Logo Design
 The logo and favicon are simple and clutter free. A cartoon cookie with readable font were seleted.
 A clean look with a logo that isn't too busy and communicates effectively what the company does.
 
-#### 
+There were other designs made which were rejected as this seemed like the most well suited option at the end.
+
+Below are the various options and designs showing the process...
+### Logo Designs
+![alt text](3.png)
+![alt text](<Biscuit bakery logo.png>)
+![alt text](4.png)
+![alt text](5.png)
+![alt text](6.png)
+![alt text](9.png)
+![alt text](14.png)
+![alt text](13.png)
+
+![alt text](Biscuitlogo2.png)
+![alt text](newlogo3.png)
+![alt text](successorder.png)
+
+### Favicon designs
+![alt text](BBfavicon.png)
+![alt text](15.png)
+![alt text](12.png)
+
+
+
+
+
+
+
+
+
+### Adding ID's for CSS
+
+In order to style the labels on the order form I had to create ID's for each dropdown in the styles css page.
+
 ---
 <p style="text-align:center">
 <img src="assets/screenshots/homepagemob.jpeg" alt="screenshot" width="200" height="auto">
@@ -82,7 +115,7 @@ A mother wants a selection of fine British biscuits to offer to her daughter and
 ## User design/experience
 * Ensure all pages include responsive design for all screen sizes
 * Use Bootstrap for the order form and buttons on order page
-* Wireframes for mobile, tablet and desktop!
+* Wireframes for mobile, tablet and desktop
 ### Colour Palette 
 
 <img src="assets/images/palette.png">
@@ -103,7 +136,7 @@ The user can easily access the extra information by a siple click on the heading
 Even though the center tag still works it has been officially deprecated and so I had to use text align instead to center the tag on the middle of the page.
 https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 
-Instae of using the center tag which is notlobger used or re
+
 ## Homepage
 <p style="text-align:center">
 <img src="assets/wireframes/mobile/home.jpeg" alt="mobilehome" width="200" height="auto">

@@ -1,3 +1,4 @@
+
 .pagelogo {
   display: flex;
   justify-content: center;
@@ -58,7 +59,15 @@ tr:nth-child(odd) {
 }
 
 #pick-up {
+  font-display: center;
    text-align: center;
+}
+
+/* labels class for the dropwdown have been added to style here too. */
+
+.order {
+  font-size: larger;
+  font-weight: bold;
 }
 
  #gallery, p {
@@ -69,16 +78,15 @@ tr:nth-child(odd) {
   text-align: center;
  }
 
-.league-spartan {
-  font-family: "League Spartan", sans-serif;
-  font-size: medium;
-  font-weight: bold;
+ .aboreto-regular {
+  font-family: "Aboreto", system-ui;
+  font-weight: 400;
   font-style: normal;
 }
 
 .navbar {
   background-color: #ffeada;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'aboreto';
 }
 
 #i {
@@ -126,7 +134,10 @@ tr:nth-child(odd) {
     text-wrap: balance;
     background-color:#662c05;
     font-size: medium;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: aboreto-regular, "Aboreto", system-ui;
+ 
+ 
+}'
 }
 
 #face, #insta, #twitter-x {
