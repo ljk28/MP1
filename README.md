@@ -92,6 +92,11 @@ https://www.youtube.com/shorts/Y03AqLiBMGk
 This saved me from having to use javascript and kept things neat and tidy on the webpage.
 Espcially benefical for the FAQ section.
 The user can easily access the extra information by a siple click on the heading/tag.
+
+Even though the center tag still works it has been officially deprecated and so I had to use text align instead to center the tag on the middle of the page.
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
+
+Instae of using the center tag which is notlobger used or re
 ## Homepage
 <p style="text-align:center">
 <img src="assets/wireframes/mobile/home.jpeg" alt="mobilehome" width="200" height="auto">
