@@ -19,6 +19,9 @@ This website has been made mobile friendly and scales up to accommodate larger s
 
 The footer has much needed contact information from the location and address to the telephone number. This ensures that customers/users have a fall back option.  
 
+## Inspiration 
+Why do this project about biscuits? Well, in our household we eat biscuits. Every day. A lot. 
+It seemed like a good idea. Somehthing familiar and unobtrusive. Something that would be an easy choice for the first milestone. 
 
 ---
 <p style="text-align:center">
@@ -39,6 +42,7 @@ The footer has much needed contact information from the location and address to 
    1. Colour palatte for design
    2. Bootstrap code for form and table
    3. Wireframes for each display size (within each page below)
+   4. Using summary and details tags/elements
 5. [Homepage](#homepage)
 6. [Prices Page](#prices)
 7. [Order page](#order-page)
@@ -74,6 +78,14 @@ Bootstrap code for form and table
 
 Wireframes for each display size
 
+### Using the "summary" and "details" tag/element for dropdown effect
+I got the details tag from two places 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
+and 
+https://www.youtube.com/shorts/Y03AqLiBMGk
+This saved me from having to use javascript and kept things neat and tidy on the webpage.
+Espcially benefical for the FAQ page.
+The user can easily access the extra information by a siple click on the heading/tag.
 ## Homepage
 <p style="text-align:center">
 <img src="assets/wireframes/mobile/home.jpeg" alt="mobilehome" width="200" height="auto">

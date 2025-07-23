@@ -39,6 +39,10 @@ tr:nth-child(odd) {
  "HTML & CSS for Absolute Beginners: Responsive images" 
  link in readme file */
  
+.details {
+  display: grid;
+  justify-content: center;
+}
 
  #gallery, p {
   text-align: center;
@@ -50,8 +54,8 @@ tr:nth-child(odd) {
 
 .league-spartan {
   font-family: "League Spartan", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: weight;
+  font-size: medium;
+  font-weight: bold;
   font-style: normal;
 }
 
