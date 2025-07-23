@@ -8,7 +8,7 @@
 body, main, h1, h2, h3, p
 {
   font-family: league spartan;
-  
+  background-image: url(/assets/images/falling-biscuits.jpg);
 }
 
 table {
@@ -39,7 +39,7 @@ tr:nth-child(odd) {
  "HTML & CSS for Absolute Beginners: Responsive images" 
  link in readme file */
   
-/* Below are the 'details', 'amount' and 'biscuit' id's and classes which are additional to style and centre the order and home pages respectively */  
+/* Below are the 'details', 'amount' and 'biscuit', 'pick-up' id's and classes which are additional to style and centre the order and home pages respectively */  
 .details {
   display: grid;
   justify-content: center;
