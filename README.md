@@ -26,11 +26,12 @@ It seemed like a good idea. Something familiar and unobtrusive. Something that w
 > Please Note:  
 I don't live at Biscuit lane or Biscuit Avenue
 
-### Development of logo and favicon
-
-The logo and favicon are simple and clutter free.
+### Development
+#### Logo Design
+The logo and favicon are simple and clutter free. A cartoon cookie with readable font were seleted.
 A clean look with a logo that isn't too busy and communicates effectively what the company does.
 
+#### 
 ---
 <p style="text-align:center">
 <img src="assets/screenshots/homepagemob.jpeg" alt="screenshot" width="200" height="auto">
