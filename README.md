@@ -1,6 +1,6 @@
 # milestone-project-1
 
-<img src="assets/images/logo.png">
+<img src="documentation/biscuit-bakery-logo.png">
 
 # Contents 
 1. [Rationale](#rationale)
@@ -59,31 +59,22 @@ There were other designs made which were rejected as this seemed like the most w
 
 Below are the various options and designs showing the process...
 ### Logo Designs
-![alt text](3.png)
-![alt text](<Biscuit bakery logo.png>)
-![alt text](4.png)
-![alt text](5.png)
-![alt text](6.png)
-![alt text](9.png)
-![alt text](14.png)
-![alt text](13.png)
-
-![alt text](Biscuitlogo2.png)
-![alt text](newlogo3.png)
-![alt text](successorder.png)
+![alt text](documentation/3.png)
+![alt text](documentation/biscuit-bakery-logo.png)
+![alt text](documentation/4.png)
+![alt text](documentation/5.png)
+![alt text](documentation/6.png)
+![alt text](documentation/9.png)
+![alt text](documentation/14.png)
+![alt text](documentation/13.png)
+![alt text](documentation/Biscuitlogo2.png)
+![alt text](documentation/newlogo3.png)
+![alt text](documentation/successorder.png)
 
 ### Favicon designs
-![alt text](BBfavicon.png)
-![alt text](15.png)
-![alt text](12.png)
-
-
-
-
-
-
-
-
+![alt text](documentation/BBfavicon.png)
+![alt text](documentation/15.png)
+![alt text](documentation/12.png)
 
 ### Adding ID's for CSS
 
@@ -91,12 +82,12 @@ In order to style the labels on the order form I had to create ID's for each dro
 
 ---
 <p style="text-align:center">
-<img src="assets/screenshots/homepagemob.jpeg" alt="screenshot" width="200" height="auto">
-<img src="assets/screenshots/bourbon2.png" alt="mobilehome" width="200" height="auto">
-<img src="assets/screenshots/testimoniesmob.png" alt="mobilehome" width="200" height="auto">
-<img src="assets/screenshots/biscuitfam.jpeg" alt="homedesktop" width="200" height="auto">
-<img src="assets/screenshots/prices.png" alt="mobilehome" width="200" height="auto">
-<img src="assets/screenshots/middletablet.jpeg" alt="mobilehome" width="200" height="auto">
+<img src="documentation/homepagemob.jpeg" alt="screenshot" width="200" height="auto">
+<img src="documentation/bourbon2.png" alt="mobilehome" width="200" height="auto">
+<img src="documentation/testimoniesmob.png" alt="mobilehome" width="200" height="auto">
+<img src="documentation/biscuitfam.jpeg" alt="homedesktop" width="200" height="auto">
+<img src="documentation/prices.png" alt="mobilehome" width="200" height="auto">
+<img src="documentation/middletablet.jpeg" alt="mobilehome" width="200" height="auto">
 </p>
 ---
 
@@ -118,7 +109,7 @@ A mother wants a selection of fine British biscuits to offer to her daughter and
 * Wireframes for mobile, tablet and desktop
 ### Colour Palette 
 
-<img src="assets/images/palette.png">
+<img src="documentation/images/palette.png">
 
 Bootstrap code for form and table
 
@@ -139,9 +130,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 
 ## Homepage
 <p style="text-align:center">
-<img src="assets/wireframes/mobile/home.jpeg" alt="mobilehome" width="200" height="auto">
-<img src="assets/wireframes/tablet/HomePage.jpeg" alt="homepage" width="350" height="auto">
-<img src="assets/wireframes/desktop/=.jpeg" alt="homepage" width="400" height="auto"></p>
+<img src="documentation/wireframes/mobile/home.jpeg" alt="mobilehome" width="200" height="auto">
+<img src="documentation/wireframes/tablet/HomePage.jpeg" alt="homepage" width="350" height="auto">
+<img src="documentation/wireframes/desktop/=.jpeg" alt="homepage" width="400" height="auto"></p>
 
 
 
@@ -172,11 +163,11 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 
 ## Gallery
 <p style="text-align:center">
-<img src="assets/wireframes/mobile/gallerymobile.jpeg" alt="gallery" width="200" height="auto">
-<img src="assets/wireframes/tablet/Gallery.jpeg" alt="gallery" width="200" height="auto">
-<img src="assets/wireframes/tablet/Gallery 2.jpeg" alt="gallery" width="200" height="auto">
-<img src="assets/wireframes/desktop/Gallery.jpeg" alt="gallery" width="350" height="auto">
-<img src="assets/wireframes/desktop/Gallery 2.jpeg" alt="gallery" width="350" height="auto"></p>
+<img src="documentation/wireframes/mobile/gallerymobile.jpeg" alt="gallery" width="200" height="auto">
+<img src="documentation/wireframes/tablet/Gallery.jpeg" alt="gallery" width="200" height="auto">
+<img src="documentation/wireframes/tablet/Gallery 2.jpeg" alt="gallery" width="200" height="auto">
+<img src="documentation/wireframes/desktop/Gallery.jpeg" alt="gallery" width="350" height="auto">
+<img src="documentation/wireframes/desktop/Gallery 2.jpeg" alt="gallery" width="350" height="auto"></p>
 
 
 ### Favicon
@@ -209,10 +200,10 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 
 ## Prices
 <p style="text-align:center">
-<img src="assets/wireframes/mobile/pricesmobile.jpeg" alt="prices" width="200" height="auto">
-<img src="assets/wireframes/tablet/Prices.jpeg" alt="prices" width="300" height="auto">
+<img src="documentation/wireframes/mobile/pricesmobile.jpeg" alt="prices" width="200" height="auto">
+<img src="documentation/wireframes/tablet/Prices.jpeg" alt="prices" width="300" height="auto">
 <br>
-<img src="assets/wireframes/desktop/Image.jpeg" alt="prices" width="400" height="auto">
+<img src="documentation/wireframes/desktop/Image.jpeg" alt="prices" width="400" height="auto">
 </p>
 
 
@@ -247,12 +238,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 
 ## Order Page
 <p style="text-align:center">
-<img src="assets/wireframes/mobile/ordermobile.jpeg" alt="order1" width="150" height="auto">
-<img src="assets/wireframes/mobile/ordersuccessfulmob.jpeg" alt="order2" width="150" height="auto">
-<img src="assets/wireframes/tablet/Milestone1wireframes tablet 3.jpeg" alt="ordertablet" width="150" height="auto">
-<img src="assets/wireframes/tablet/Order on its.jpeg" alt="ordertablet" width="150" height="auto">
-<img src="assets/wireframes/desktop/Wireframesdesktop.jpeg" alt="orderdesktop" width="280" height="auto">
-<img src="assets/wireframes/desktop/Wireframesdesktop 4.jpeg" alt="orderdesktop2" width="280" height="auto">
+<img src="documentation/wireframes/mobile/ordermobile.jpeg" alt="order1" width="150" height="auto">
+<img src="documentation/wireframes/mobile/ordersuccessfulmob.jpeg" alt="order2" width="150" height="auto">
+<img src="documentation/wireframes/tablet/Milestone1wireframes tablet 3.jpeg" alt="ordertablet" width="150" height="auto">
+<img src="documentation/wireframes/tablet/Order on its.jpeg" alt="ordertablet" width="150" height="auto">
+<img src="documentation/wireframes/desktop/Wireframesdesktop.jpeg" alt="orderdesktop" width="280" height="auto">
+<img src="documentation/wireframes/desktop/Wireframesdesktop 4.jpeg" alt="orderdesktop2" width="280" height="auto">
 </p>
 
 
@@ -283,9 +274,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 
 ## About Page
 <p style="text-align:center">
-<img src="assets/wireframes/mobile/Quotation 2.jpeg" alt="about" width="200" height="auto">
-<img src="assets/wireframes/tablet/Main text,.jpeg" alt="abouttablet" width="300" height="auto">
-<img src="assets/wireframes/desktop/Description.jpeg" alt="about" width="350" height="auto">
+<img src="documentation/wireframes/mobile/Quotation 2.jpeg" alt="about" width="200" height="auto">
+<img src="documentation/wireframes/tablet/Main text,.jpeg" alt="abouttablet" width="300" height="auto">
+<img src="documentation/wireframes/desktop/Description.jpeg" alt="about" width="350" height="auto">
 </p>
 
 ## Favicon
@@ -314,9 +305,9 @@ Information about loyalty scheme and rewards
 
 ## Testimony Page
 <p style="text-align:center">
-<img src="assets/wireframes/mobile/testimoniesmob.jpeg" alt="testimony" width="200" height="auto">
-<img src="assets/wireframes/tablet/Testimonies.jpeg" alt="testimony" width="300" height="auto">
-<img src="assets/wireframes/desktop/Testimonies.jpeg" alt="testimoniesdesktop" width="350" height="auto">
+<img src="documentation/wireframes/mobile/testimoniesmob.jpeg" alt="testimony" width="200" height="auto">
+<img src="documentation/wireframes/tablet/Testimonies.jpeg" alt="testimony" width="300" height="auto">
+<img src="documentation/wireframes/desktop/Testimonies.jpeg" alt="testimoniesdesktop" width="350" height="auto">
 </p>
 
 ## Favicon
@@ -351,9 +342,7 @@ Pexels
 
 References to images/photos for milestone project...
 
-Free preview images from ADOBE STOCK
-
-[https://stock.adobe.com/uk/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bis_editorial%5D=0&filters%5Bfree_collection%5D=0&filters%5Bcontent_type%3Aimage%5D=1&k=shortbread&order=relevance&search_page=2&get_facets=0&search_type=pagination]
+[Free preview images from ADOBE STOCK](https://stock.adobe.com/uk/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bis_editorial%5D=0&filters%5Bfree_collection%5D=0&filters%5Bcontent_type%3Aimage%5D=1&k=shortbread&order=relevance&search_page=2&get_facets=0&search_type=pagination)
 
 
 [https://stock.adobe.com/uk/search?k=custard+cream&search_type=usertyped]
@@ -459,61 +448,61 @@ Validation For CSS and HTML
 </p>
 
 Here are 4 errors that were found for CSS validation...
-![alt text](<W3C CSS Validator results for TextArea (CSS level 3 + SVG).jpeg>)
+![alt text](documentation/<W3C CSS Validator results for TextArea (CSS level 3 + SVG).jpeg>)
 
 For HTML the index page had the following issues for the validation...
-![alt text](<Nu Htmi Chocker.jpeg>)
+![alt text](documentation/<Nu Htmi Chocker.jpeg>)
 
-![alt text](<html indexhome page validator.jpeg>)
+![alt text](documentation/<html indexhome page validator.jpeg>)
 
-![alt text](<html indexhome page validator-1.jpeg>)
+![alt text](documentation/<html indexhome page validator-1.jpeg>)
 
-![alt text](<html indexhome page validator-2.jpeg>)
+![alt text](documentation/<html indexhome page validator-2.jpeg>)
 
 For the html order page there were 14 errors...
 
-![alt text](<Html order page.jpeg>)
-![alt text](<Html order page-1.jpeg>)
-![alt text](<Html order page-2.jpeg>)
-![alt text](<Html order page-3.jpeg>)
-![alt text](<Html order page-4.jpeg>)
+![alt text](documentation/<Html order page.jpeg>)
+![alt text](documentation/<Html order page-1.jpeg>)
+![alt text](documentation/<Html order page-2.jpeg>)
+![alt text](documentation/<Html order page-3.jpeg>)
+![alt text](documentation/<Html order page-4.jpeg>)
 
 The order success page retrieved 11 errors...
-![alt text](<Html order page-5.jpeg>)
-![alt text](<Html order page-6.jpeg>)
-![alt text](<Html order page-7.jpeg>)
-![alt text](<Html order page-8.jpeg>)
+![alt text](documentation/<Html order page-5.jpeg>)
+![alt text](documentation/<Html order page-6.jpeg>)
+![alt text](documentation/<Html order page-7.jpeg>)
+![alt text](documentation/<Html order page-8.jpeg>)
 
 The about page had 15 errors...
-![alt text](<Html about, prices, testimonies validation.jpeg>)
-![alt text](<Html about, prices, testimonies validation-1.jpeg>)
-![alt text](<Html about, prices, testimonies validation-2.jpeg>)
-![alt text](<Html about, prices, testimonies validation-3.jpeg>)
-![alt text](<Html about, prices, testimonies validation-4.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-1.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-2.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-3.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-4.jpeg>)
 
 The HTML prices page had 13 errors...
-![alt text](<Html about, prices, testimonies validation-5.jpeg>)
-![alt text](<Html about, prices, testimonies validation-6.jpeg>)
-![alt text](<Html about, prices, testimonies validation-7.jpeg>)
-![alt text](<Html about, prices, testimonies validation-8.jpeg>)
-![alt text](<Html about, prices, testimonies validation-9.jpeg>)
-![alt text](<Html about, prices, testimonies validation-10.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-5.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-6.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-7.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-8.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-9.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-10.jpeg>)
 
 The html testimonies page retrieved 11 errors...
-![alt text](<Html about, prices, testimonies validation-11.jpeg>)
-![alt text](<Html about, prices, testimonies validation-12.jpeg>)
-![alt text](<Html about, prices, testimonies validation-13.jpeg>)
-![alt text](<Html about, prices, testimonies validation-14.jpeg>)
-![alt text](<Html about, prices, testimonies validation-15.jpeg>)
-![alt text](<Html about, prices, testimonies validation-16.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-11.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-12.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-13.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-14.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-15.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-16.jpeg>)
 
 And finally for the html gallery page there were 10 errors after validation...
-![alt text](<Html about, prices, testimonies validation-17.jpeg>)
-![alt text](<Html about, prices, testimonies validation-18.jpeg>)
-![alt text](<Html about, prices, testimonies validation-19.jpeg>)
-![alt text](<Html about, prices, testimonies validation-20.jpeg>)
-![alt text](<Html about, prices, testimonies validation-21.jpeg>)
-![alt text](<Html about, prices, testimonies validation-22.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-17.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-18.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-19.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-20.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-21.jpeg>)
+![alt text](documentation/<Html about, prices, testimonies validation-22.jpeg>)
 
  <p style="color:yellow">Addressing validaton and correcting errors</p>
 

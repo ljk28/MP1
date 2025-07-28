@@ -8,14 +8,20 @@
 
 body, main, h1, h2, h3, p
 {
-  font-family: league spartan;
-  background-image: url(/images/falling-biscuits.jpg);
+  font-family: "League Spartan";
   
+}
+
+.league-spartan {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
 }
 
 
 table {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "League Spartan";
   background-color: #ffeada;
 }
 
@@ -78,16 +84,14 @@ tr:nth-child(odd) {
   text-align: center;
  }
 
- .aboreto-regular {
-  font-family: "Aboreto", system-ui;
-  font-weight: 400;
-  font-style: normal;
+
+
+
+.navbar :has  {
+  background-color: #ffeada;
+  font-family: 'league-spartan';
 }
 
-.navbar {
-  background-color: #ffeada;
-  font-family: 'aboreto';
-}
 
 #i {
   display: flex;
@@ -134,11 +138,11 @@ tr:nth-child(odd) {
     text-wrap: balance;
     background-color:#662c05;
     font-size: medium;
-    font-family: aboreto-regular, "Aboreto", system-ui;
+    font-family: "League Spartan";
  
  
-}'
 }
+
 
 #face, #insta, #twitter-x {
   display: flex;
