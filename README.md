@@ -59,22 +59,22 @@ There were other designs made which were rejected as this seemed like the most w
 
 Below are the various options and designs showing the process...
 ### Logo Designs
-![alt text](documentation/3.png)
-![alt text](documentation/biscuit-bakery-logo.png)
-![alt text](documentation/4.png)
-![alt text](documentation/5.png)
-![alt text](documentation/6.png)
-![alt text](documentation/9.png)
-![alt text](documentation/14.png)
-![alt text](documentation/13.png)
-![alt text](documentation/Biscuitlogo2.png)
-![alt text](documentation/newlogo3.png)
-![alt text](documentation/successorder.png)
+![logo-design-1](documentation/3.png)
+![logo-design-2](documentation/biscuit-bakery-logo.png)
+![logo-design-3](documentation/4.png)
+![logo-design-4](documentation/5.png)
+![logo-design-5](documentation/6.png)
+![logo-design-6](documentation/9.png)
+![logo-design-7](documentation/14.png)
+![logo-design-8](documentation/13.png)
+![logo-design-9](documentation/Biscuitlogo2.png)
+![logo-design-10](documentation/newlogo3.png)
+![logo-design-11](documentation/successorder.png)
 
 ### Favicon designs
-![alt text](documentation/BBfavicon.png)
-![alt text](documentation/15.png)
-![alt text](documentation/12.png)
+![favicon-1](documentation/BBfavicon.png)
+![favicon-2](documentation/15.png)
+![favicon-3](documentation/12.png)
 
 ### Adding ID's for CSS
 
