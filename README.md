@@ -350,34 +350,31 @@ Free preview images from ADOBE STOCK...
 
 <a href="https://stock.adobe.com/uk/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=bourbon+biscuits&order=relevance&limit=100&search_page=2&search_type=pagination&acp=&aco=bourbon+biscuits&get_facets=0" target="_blank">Bourbon biscuits</a>
 
-[bourbon-biscuits]
-(https://stock.adobe.com/uk/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=bourbon+biscuits&order=relevance&limit=100&search_page=2&search_type=pagination&acp=&aco=bourbon+biscuits&get_facets=0)
+<a href="https://unsplash.com/s/photos/boxed-biscuits?license=free" target="_blank">Photo by Behnam Norouzi on Unsplash</a>
 
-Photo by Behnam Norouzi on Unsplash / [https://unsplash.com/s/photos/boxed-biscuits?license=free]
+<a href="https://unsplash.com/s/photos/order-biscuits?license=free" target="_blank">Photo by asagi on Unsplash</a>
 
-Photo by asagi on Unsplash / [https://unsplash.com/s/photos/order-biscuits?license=free]
+ <a href="https://unsplash.com/photos/a-cookie-with-sprinkles-on-a-brown-background-lo3conW0BK8" target="_blank">Photo of cookie by Nik Owens on Unsplash</a>
 
-Photo by Nik Owens on Unsplash / [https://unsplash.com/photos/a-cookie-with-sprinkles-on-a-brown-background-lo3conW0BK8]
+<a href="https://unsplash.com/@nik_owens" target="_blank">Photo of cookies by Nik Owens on Unsplash</a> 
 
-Photo by Nik Owens on Unsplash / [https://unsplash.com/@nik_owens]
+<a href="https://unsplash.com/s/photos/white-choc-cookie" target="_blank">Photo by Andrijana Bozic on Unsplash</a>
 
-Photo by Andrijana Bozic on Unsplash / [https://unsplash.com/s/photos/]white-choc-cookie
+ <a href="https://unsplash.com/photos/a-bunch-of-cookies-that-are-on-a-rack-kl54LH8jZaQ" target="_blank">Photo by Michael Carruth on Unsplash</a>
 
-Photo by Michael Carruth on Unsplash / [https://unsplash.com/photos/a-bunch-of-cookies-that-are-on-a-rack-kl54LH8jZaQ]
+<a href="https://www.pexels.com/photo/homemade-gingerbread-cookies-on-wooden-surface-6119146/" target="_blank">Photo by Taryn Elliott</a> 
 
-Photo by Taryn Elliott: [https://www.pexels.com/photo/homemade-gingerbread-cookies-on-wooden-surface-6119146/] 
+<a href="https://unsplash.com/s/photos/white-choc-cookie" target="_blank">Photos by Andrijana Bozic on Unsplash</a>
 
-Photo by Andrijana Bozic on Unsplash / https://unsplash.com/s/photos/white-choc-cookie
-
-[https://www.pexels.com/photo/person-putting-cookie-on-wooden-surface-6119147/]
+<a href="https://www.pexels.com/photo/person-putting-cookie-on-wooden-surface-6119147/" target="_blank">Photos by Andrijana Bozic on Unsplash (cookie)</a>
 
 
 ---
 Tutorials/websites/videos used to help with the contruction of the website are as follows:
 
 Tables: 
-
 [https://www.w3schools.com/html/html_table_styling.asp]
+(https://www.w3schools.com/html/html_table_styling.asp)
 
 [https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Tables]
 
