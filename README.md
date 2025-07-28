@@ -109,7 +109,7 @@ A mother wants a selection of fine British biscuits to offer to her daughter and
 * Wireframes for mobile, tablet and desktop
 ### Colour Palette 
 
-<img src="documentation/images/palette.png">
+<img src="assets/images/palette.png">
 
 Bootstrap code for form and table
 
