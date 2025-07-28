@@ -343,13 +343,15 @@ Pexels
 
 References to images/photos for milestone project...
 
-[Free preview images from ADOBE STOCK](https://stock.adobe.com/uk/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bis_editorial%5D=0&filters%5Bfree_collection%5D=0&filters%5Bcontent_type%3Aimage%5D=1&k=shortbread&order=relevance&search_page=2&get_facets=0&search_type=pagination)
+Free preview images from ADOBE STOCK...
+
+<a href="https://stock.adobe.com/uk/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bis_editorial%5D=0&filters%5Bfree_collection%5D=0&filters%5Bcontent_type%3Aimage%5D=1&k=shortbread&order=relevance&search_page=2&get_facets=0&search_type=pagination" target="_blank">Shortbread</a>
 
 
-[https://stock.adobe.com/uk/search?k=custard+cream&search_type=usertyped]
+<a href="https://stock.adobe.com/uk/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=bourbon+biscuits&order=relevance&limit=100&search_page=2&search_type=pagination&acp=&aco=bourbon+biscuits&get_facets=0" target="_blank">Bourbon biscuits</a>
 
-
-[https://stock.adobe.com/uk/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=bourbon+biscuits&order=relevance&limit=100&search_page=2&search_type=pagination&acp=&aco=bourbon+biscuits&get_facets=0]
+[bourbon-biscuits]
+(https://stock.adobe.com/uk/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=bourbon+biscuits&order=relevance&limit=100&search_page=2&search_type=pagination&acp=&aco=bourbon+biscuits&get_facets=0)
 
 Photo by Behnam Norouzi on Unsplash / [https://unsplash.com/s/photos/boxed-biscuits?license=free]
 
