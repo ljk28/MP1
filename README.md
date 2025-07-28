@@ -1,6 +1,6 @@
 # milestone-project-1
 
-<img src="documentation/biscuit-bakery-logo.png">
+<img src="assets/images/logo.png">
 
 # Contents 
 1. [Rationale](#rationale)
@@ -131,8 +131,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 ## Homepage
 <p style="text-align:center">
 <img src="documentation/wireframes/mobile/home.jpeg" alt="mobilehome" width="200" height="auto">
-<img src="documentation/wireframes/tablet/HomePage.jpeg" alt="homepage" width="350" height="auto">
-<img src="documentation/wireframes/desktop/=.jpeg" alt="homepage" width="400" height="auto"></p>
+<img src="documentation/wireframes/tablet/homepage.jpeg" alt="homepage" width="350" height="auto">
+<img src="documentation/wireframes/desktop/home-desktop.jpeg" alt="homepage" width="400" height="auto"></p>
 
 
 
@@ -164,10 +164,10 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 ## Gallery
 <p style="text-align:center">
 <img src="documentation/wireframes/mobile/gallerymobile.jpeg" alt="gallery" width="200" height="auto">
-<img src="documentation/wireframes/tablet/Gallery.jpeg" alt="gallery" width="200" height="auto">
-<img src="documentation/wireframes/tablet/Gallery 2.jpeg" alt="gallery" width="200" height="auto">
-<img src="documentation/wireframes/desktop/Gallery.jpeg" alt="gallery" width="350" height="auto">
-<img src="documentation/wireframes/desktop/Gallery 2.jpeg" alt="gallery" width="350" height="auto"></p>
+<img src="documentation/wireframes/tablet/gallery.jpeg" alt="gallery" width="200" height="auto">
+<img src="documentation/wireframes/tablet/gallery-2.jpeg" alt="gallery" width="200" height="auto">
+<img src="documentation/wireframes/desktop/gallery.jpeg" alt="gallery" width="350" height="auto">
+<img src="documentation/wireframes/desktop/gallery 2.jpeg" alt="gallery" width="350" height="auto"></p>
 
 
 ### Favicon
@@ -201,9 +201,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 ## Prices
 <p style="text-align:center">
 <img src="documentation/wireframes/mobile/pricesmobile.jpeg" alt="prices" width="200" height="auto">
-<img src="documentation/wireframes/tablet/Prices.jpeg" alt="prices" width="300" height="auto">
+<img src="documentation/wireframes/tablet/prices.jpeg" alt="prices" width="300" height="auto">
 <br>
-<img src="documentation/wireframes/desktop/Image.jpeg" alt="prices" width="400" height="auto">
+<img src="documentation/wireframes/desktop/prices-desktop.jpeg" alt="prices" width="400" height="auto">
 </p>
 
 
@@ -240,10 +240,11 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 <p style="text-align:center">
 <img src="documentation/wireframes/mobile/ordermobile.jpeg" alt="order1" width="150" height="auto">
 <img src="documentation/wireframes/mobile/ordersuccessfulmob.jpeg" alt="order2" width="150" height="auto">
-<img src="documentation/wireframes/tablet/Milestone1wireframes tablet 3.jpeg" alt="ordertablet" width="150" height="auto">
-<img src="documentation/wireframes/tablet/Order on its.jpeg" alt="ordertablet" width="150" height="auto">
-<img src="documentation/wireframes/desktop/Wireframesdesktop.jpeg" alt="orderdesktop" width="280" height="auto">
-<img src="documentation/wireframes/desktop/Wireframesdesktop 4.jpeg" alt="orderdesktop2" width="280" height="auto">
+<img src="documentation/wireframes/tablet/order-tablet-1.jpeg" alt="ordertablet" width="150" height="auto">
+<img src="documentation/wireframes/tablet/order-on-its.jpeg" alt="ordertablet" width="150" height="auto">
+<img src="documentation/wireframes/desktop/order-desktop-1.jpeg" alt="orderdesktop" width="280" height="auto">
+<img src="documentation/wireframes/desktop/order-desktop-2.jpeg" alt="orderdesktop2" width="280" height="auto">
+<img src="documentation/wireframes/desktop/order-desktop-3.jpeg" alt="orderdesktop3" width="280" height="auto">
 </p>
 
 
@@ -274,9 +275,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 
 ## About Page
 <p style="text-align:center">
-<img src="documentation/wireframes/mobile/Quotation 2.jpeg" alt="about" width="200" height="auto">
-<img src="documentation/wireframes/tablet/Main text,.jpeg" alt="abouttablet" width="300" height="auto">
-<img src="documentation/wireframes/desktop/Description.jpeg" alt="about" width="350" height="auto">
+<img src="documentation/wireframes/mobile/about.jpeg" alt="about" width="200" height="auto">
+<img src="documentation/wireframes/tablet/main-text.jpeg" alt="abouttablet" width="300" height="auto">
+<img src="documentation/wireframes/desktop/description.jpeg" alt="about" width="350" height="auto">
 </p>
 
 ## Favicon
@@ -306,8 +307,8 @@ Information about loyalty scheme and rewards
 ## Testimony Page
 <p style="text-align:center">
 <img src="documentation/wireframes/mobile/testimoniesmob.jpeg" alt="testimony" width="200" height="auto">
-<img src="documentation/wireframes/tablet/Testimonies.jpeg" alt="testimony" width="300" height="auto">
-<img src="documentation/wireframes/desktop/Testimonies.jpeg" alt="testimoniesdesktop" width="350" height="auto">
+<img src="documentation/wireframes/tablet/testimonies.jpeg" alt="testimony" width="300" height="auto">
+<img src="documentation/wireframes/desktop/testimonies-desktop.jpeg" alt="testimonies-desktop" width="350" height="auto">
 </p>
 
 ## Favicon
