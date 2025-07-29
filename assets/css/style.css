@@ -1,3 +1,7 @@
+#toplogo {
+  display: flex;
+  justify-self: center;
+}
 
 .pagelogo {
   display: flex;
