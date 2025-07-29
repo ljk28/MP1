@@ -3,6 +3,10 @@
   justify-self: center;
 }
 
+#toplogo2 {
+  display: flex;
+  justify-content: center;
+}
 .pagelogo {
   display: flex;
   justify-content: center;
