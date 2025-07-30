@@ -446,63 +446,8 @@ The reason for doing this is to prevent ambiguity for the user and show clearly 
 <p style="color:yellow">
 Validation For CSS and HTML
 </p>
-
-Here are 4 errors that were found for CSS validation...
-![alt text](documentation/<W3C CSS Validator results for TextArea (CSS level 3 + SVG).jpeg>)
-
-For HTML the index page had the following issues for the validation...
-![alt text](documentation/<Nu Htmi Chocker.jpeg>)
-
-![alt text](documentation/<html indexhome page validator.jpeg>)
-
-![alt text](documentation/<html indexhome page validator-1.jpeg>)
-
-![alt text](documentation/<html indexhome page validator-2.jpeg>)
-
-For the html order page there were 14 errors...
-
-![alt text](documentation/<Html order page.jpeg>)
-![alt text](documentation/<Html order page-1.jpeg>)
-![alt text](documentation/<Html order page-2.jpeg>)
-![alt text](documentation/<Html order page-3.jpeg>)
-![alt text](documentation/<Html order page-4.jpeg>)
-
-The order success page retrieved 11 errors...
-![alt text](documentation/<Html order page-5.jpeg>)
-![alt text](documentation/<Html order page-6.jpeg>)
-![alt text](documentation/<Html order page-7.jpeg>)
-![alt text](documentation/<Html order page-8.jpeg>)
-
-The about page had 15 errors...
-![alt text](documentation/<Html about, prices, testimonies validation.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-1.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-2.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-3.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-4.jpeg>)
-
-The HTML prices page had 13 errors...
-![alt text](documentation/<Html about, prices, testimonies validation-5.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-6.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-7.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-8.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-9.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-10.jpeg>)
-
-The html testimonies page retrieved 11 errors...
-![alt text](documentation/<Html about, prices, testimonies validation-11.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-12.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-13.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-14.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-15.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-16.jpeg>)
-
-And finally for the html gallery page there were 10 errors after validation...
-![alt text](documentation/<Html about, prices, testimonies validation-17.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-18.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-19.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-20.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-21.jpeg>)
-![alt text](documentation/<Html about, prices, testimonies validation-22.jpeg>)
+CSS returned the following:
+<img src="documentation/css-test.jpeg">
 
  <p style="color:yellow">Addressing validaton and correcting errors</p>
 
@@ -512,6 +457,7 @@ For the mobile lighthouse returned...
 
 ![lighthouse-mob](<Lighthouse screenshots.jpeg>)
 
+For desktop lighthouse returned ...
 ![lighthouse-desktop](<Biscuit Family Bokery .Est 2015.jpeg>)
 
 ![lighthouse-desktop-2](100.jpeg)
