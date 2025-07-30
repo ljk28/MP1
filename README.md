@@ -131,7 +131,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 ## Homepage
 <p style="text-align:center">
 <img src="documentation/wireframes/mobile/home-mob.jpeg" alt="mobilehome" width="200" height="auto">
-<img src="documentation/wireframes/tablet/homepage.jpeg" alt="homepage" width="350" height="auto">
+<img src="documentation/wireframes/tablet/homepage.jpeg" alt="mobilehome" width="300" height="auto">
 <img src="documentation/wireframes/desktop/home-desktop.jpeg" alt="homepage" width="400" height="auto"></p>
 
 
