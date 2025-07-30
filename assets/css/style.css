@@ -65,6 +65,7 @@ tr:nth-child(odd) {
   display: grid;
   justify-content: center;
    text-align: center;
+   font-size: x-large;
 }
 
 
