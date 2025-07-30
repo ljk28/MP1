@@ -97,9 +97,15 @@ tr:nth-child(odd) {
  }
 
 
+#menu {
+      display: grid;
+  justify-content: center;
+}
+
 
 
 .navbar :has  {
+
   background-color: #ffeada;
   font-family: 'league-spartan';
 }
