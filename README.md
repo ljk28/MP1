@@ -67,7 +67,7 @@ Below are the various options and designs showing the process...
 ![logo-design-6](documentation/9.png)
 ![logo-design-7](documentation/14.png)
 ![logo-design-8](documentation/13.png)
-![logo-design-9](documentation/Biscuitlogo2.png)
+![logo-design-9](documentation/9.png)
 ![logo-design-10](documentation/newlogo3.png)
 ![logo-design-11](documentation/successorder.png)
 
