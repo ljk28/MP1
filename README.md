@@ -506,6 +506,17 @@ And finally for the html gallery page there were 10 errors after validation...
 
  <p style="color:yellow">Addressing validaton and correcting errors</p>
 
+After centering and aligning the logo on each page and making the font bigger and also including details/summary tags. Along with changing thr backgroun image I ran the lighthouse test again.
+
+For the mobile lighthouse returned...
+
+![lighthouse-mob](<Lighthouse screenshots.jpeg>)
+
+![lighthouse-desktop](<Biscuit Family Bokery .Est 2015.jpeg>)
+
+![lighthouse-desktop-2](100.jpeg)
+
+
 ### Deploying the website
 
 <ol>
