@@ -201,7 +201,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 ## Prices
 <p style="text-align:center">
 <img src="documentation/wireframes/mobile/pricesmobile.jpeg" alt="prices" width="200" height="auto">
-<img src="documentation/wireframes/tablet/prices.jpeg" alt="prices" width="300" height="auto">
+<img src="documentation/wireframes/tablet/prices.jpeg" alt="tab-prices" width="300" height="auto">
 <br>
 <img src="documentation/wireframes/desktop/prices-desktop.jpeg" alt="prices" width="400" height="auto">
 </p>
