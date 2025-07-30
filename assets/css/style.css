@@ -1,3 +1,7 @@
+#body {
+  background-color: #FFEADA;
+}
+
 #toplogo {
   display: flex;
   justify-self: center;
