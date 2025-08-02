@@ -462,6 +462,16 @@ For desktop lighthouse returned ...
 
 ![lighthouse-desktop-2](100.jpeg)
 
+The next part was the HTML vaidation...
+
+For the index page...
+<img src="documentation/html-test/index/index-test.jpeg">
+<img src="documentation/html-test/index/index-test-1.jpeg">
+<img src="documentation/html-test/index/index-test-2.jpeg">
+<img src="documentation/html-test/index/index-test-3.jpeg">
+<img src="documentation/html-test/index/index-test-4.jpeg">
+<img src="documentation/html-test/index/index-test-5.jpeg">
+
 
 ### Deploying the website
 
