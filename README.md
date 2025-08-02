@@ -506,8 +506,19 @@ Testimonies...
 <img src="documentation/html-test/testimonies/testimonies-5.jpeg">
 
 Order page...
+<img src="documentation/html-test/order/order-1.jpeg">
+<img src="documentation/html-test/order/order-2.jpeg">
+<img src="documentation/html-test/order/order-3.jpeg">
+<img src="documentation/html-test/order/order-4.jpeg">
+<img src="documentation/html-test/order/order-5.jpeg">
 
-
+And the order success page...
+<img src="documentation/html-test/order-success/order-success-1.jpeg">
+<img src="documentation/html-test/order-success/order-success-2.jpeg">
+<img src="documentation/html-test/order-success/order-success-3.jpeg">
+<img src="documentation/html-test/order-success/order-success-4.jpeg">
+<img src="documentation/html-test/order-success/order-success-5.jpeg">
+<img src="documentation/html-test/order-success/order-success-6.jpeg">
 
 ### Deploying the website
 
