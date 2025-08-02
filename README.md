@@ -482,6 +482,14 @@ Next the gallery page...
 <img src="documentation/html-test/gallery/gallery-test-6.jpeg">
 
 The About page...
+<img src="documentation/html-test/about/about-test-1.jpeg">
+<img src="documentation/html-test/about/about-test-2.jpeg">
+<img src="documentation/html-test/about/about-test-3.jpeg">
+<img src="documentation/html-test/about/about-test-4.jpeg">
+<img src="documentation/html-test/about/about-test-5.jpeg">
+<img src="documentation/html-test/about/about-test-6.jpeg">
+
+Prices...
 
 ### Deploying the website
 
