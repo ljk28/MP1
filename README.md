@@ -277,7 +277,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 <p style="text-align:center">
 <img src="documentation/wireframes/mobile/about.jpeg" alt="about" width="200" height="auto">
 <img src="documentation/wireframes/tablet/main-text.jpeg" alt="abouttablet" width="300" height="auto">
-<img src="documentation/wireframes/desktop/description.jpeg" alt="about" width="350" height="auto">
+<img src="documentation/wireframes/desktop/about-desktop.jpeg" alt="about" width="350" height="auto">
 </p>
 
 ## Favicon
