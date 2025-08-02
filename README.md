@@ -307,7 +307,7 @@ Information about loyalty scheme and rewards
 ## Testimony Page
 <p style="text-align:center">
 <img src="documentation/wireframes/mobile/testimoniesmob.jpeg" alt="testimony" width="200" height="auto">
-<img src="documentation/wireframes/tablet/testimonies.jpeg" alt="testimony" width="300" height="auto">
+<img src="documentation/wireframes/tablet/testimonies-tablet.jpeg" alt="testimony" width="300" height="auto">
 <img src="documentation/wireframes/desktop/testimonies-desktop.jpeg" alt="testimonies-desktop" width="350" height="auto">
 </p>
 
