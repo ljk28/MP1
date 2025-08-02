@@ -499,7 +499,13 @@ Prices...
 <img src="documentation/html-test/prices/prices-7.jpeg">
 
 Testimonies...
+<img src="documentation/html-test/testimonies/testimonies-1.jpeg">
+<img src="documentation/html-test/testimonies/testimonies-2.jpeg">
+<img src="documentation/html-test/testimonies/testimonies-3.jpeg">
+<img src="documentation/html-test/testimonies/testimonies-4.jpeg">
+<img src="documentation/html-test/testimonies/testimonies-5.jpeg">
 
+Order page...
 
 
 
