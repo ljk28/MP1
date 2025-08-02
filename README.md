@@ -490,6 +490,18 @@ The About page...
 <img src="documentation/html-test/about/about-test-6.jpeg">
 
 Prices...
+<img src="documentation/html-test/prices/prices-1.jpeg">
+<img src="documentation/html-test/prices/prices-2.jpeg">
+<img src="documentation/html-test/prices/prices-3.jpeg">
+<img src="documentation/html-test/prices/prices-4.jpeg">
+<img src="documentation/html-test/prices/prices-5.jpeg">
+<img src="documentation/html-test/prices/prices-6.jpeg">
+<img src="documentation/html-test/prices/prices-7.jpeg">
+
+Testimonies...
+
+
+
 
 ### Deploying the website
 
