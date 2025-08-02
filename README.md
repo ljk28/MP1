@@ -462,7 +462,7 @@ For desktop lighthouse returned ...
 
 ![lighthouse-desktop-2](100.jpeg)
 
-The next part was the HTML vaidation...
+The next part was the HTML validation...
 
 For the index page...
 <img src="documentation/html-test/index/index-test.jpeg">
@@ -472,6 +472,16 @@ For the index page...
 <img src="documentation/html-test/index/index-test-4.jpeg">
 <img src="documentation/html-test/index/index-test-5.jpeg">
 
+Next the gallery page...
+
+<img src="documentation/html-test/gallery/gallery-test-1.jpeg">
+<img src="documentation/html-test/gallery/gallery-test-2.jpeg">
+<img src="documentation/html-test/gallery/gallery-test-3.jpeg">
+<img src="documentation/html-test/gallery/gallery-test-4.jpeg">
+<img src="documentation/html-test/gallery/gallery-test-5.jpeg">
+<img src="documentation/html-test/gallery/gallery-test-6.jpeg">
+
+The About page...
 
 ### Deploying the website
 
