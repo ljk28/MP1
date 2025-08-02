@@ -131,7 +131,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 ## Homepage
 <p style="text-align:center">
 <img src="documentation/wireframes/mobile/home-mob.jpeg" alt="mobilehome" width="200" height="auto">
-<img src="documentation/wireframes/tablet/homepage.jpeg" alt="tablethome" width="300" height="auto">
+<img src="documentation/wireframes/tablet/home-tablet-1.jpeg" alt="tablethome" width="300" height="auto">
 <img src="documentation/wireframes/desktop/home-desktop.jpeg" alt="homepage" width="400" height="auto"></p>
 
 
@@ -164,10 +164,10 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/center
 ## Gallery
 <p style="text-align:center">
 <img src="documentation/wireframes/mobile/gallerymobile.jpeg" alt="gallery" width="200" height="auto">
-<img src="documentation/wireframes/tablet/gallery.jpeg" alt="tab-gallery" width="200" height="auto">
-<img src="documentation/wireframes/tablet/gallery-2.jpeg" alt="gallery" width="200" height="auto">
-<img src="documentation/wireframes/desktop/gallery.jpeg" alt="desktop-gallery" width="350" height="auto">
-<img src="documentation/wireframes/desktop/gallery 2.jpeg" alt="desktop-gallery-2" width="350" height="auto"></p>
+<img src="/documentation/wireframes/tablet/gallery-tablet-1.jpeg" alt="tab-gallery" width="200" height="auto">
+<img src="documentation/wireframes/tablet/gallery-tablet-2.jpeg" alt="tab-gallery" width="200" height="auto">
+<img src="documentation/wireframes/desktop/gallery-desktop-2.jpeg" alt="desktop-gallery" width="350" height="auto">
+<img src="documentation/wireframes/desktop/gallery-desktop-1.jpeg" alt="desktop-gallery-2" width="350" height="auto"></p>
 
 
 ### Favicon
