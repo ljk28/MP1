@@ -179,8 +179,11 @@ tr:nth-child(odd) {
 /* Popup container */
 .popup {
   position: relative;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
   cursor: pointer;
+  font-family: "League Spartan";
+  
 }
 
 /* The actual popup (appears on top) */
@@ -197,6 +200,8 @@ tr:nth-child(odd) {
   bottom: 125%;
   left: 50%;
   margin-left: -80px;
+  font-family: 'league-spartan';
+  font-size: 1rem;
 }
 
 /* Popup arrow */
@@ -209,8 +214,15 @@ tr:nth-child(odd) {
   border-width: 5px;
   border-style: solid;
   border-color: #555 transparent transparent transparent;
+  font-family: 'league-spartan';
+  font-size: 20px;
 }
 
+#popupcode {
+  font-size: 3em;
+  font-family: 'league-spartan';
+
+} 
 /* Toggle this class when clicking on the popup container (hide and show the popup) */
 .popup .show {
   visibility: visible;
