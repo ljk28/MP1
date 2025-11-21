@@ -58,6 +58,9 @@
                 <li>
                   <a class="dropdown-item" href="gallery.html">Gallery</a>
                 </li>
+                 <li>
+                  <a class="dropdown-item" href="faq.html">FAQ</a>
+                </li>
               </ul>
             </li>
           </ul>
@@ -72,9 +75,14 @@
     <img src="assets/images/logo.png" alt="logo">
     </div>
     <header>
+      
       <h1 id="home">Biscuit Family Bakery .Est 2015</h1>
       <h2>Baking you great biscuits , one biscuit at a time.</h2>
       <details class="details">
+        <div class="popup" onclick="myFunction()">Click me!
+  <span class="popuptext" id="myPopup">Thank you for checking us out. Here is a discount code to use when ordering at the check out : "I luv biscuits"</span>
+</div>
+        <button></button>
         <summary>FAQ</summary>
           <p>We bake classic cookies and biscuits and even deliever them too.</p>
       <p>"Do you have sugar free options?"</p>
@@ -113,6 +121,13 @@
         <span class="visually-hidden">Next</span>
       </button>
     </div>
+    <script>
+// When the user clicks on <div>, open the popup
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+</script>
   </main>
 <!-- Footer -->
  <footer>
