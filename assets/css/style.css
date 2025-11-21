@@ -218,7 +218,7 @@ tr:nth-child(odd) {
   animation: fadeIn 1s
 }
 
-/* Add animation (fade in the popup) */
+/* Animation (for popup) */
 @-webkit-keyframes fadeIn {
   from {opacity: 0;}
   to {opacity: 1;}
@@ -228,11 +228,7 @@ tr:nth-child(odd) {
   from {opacity: 0;}
   to {opacity:1 ;}
 }
-/* Code below taken from https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe */
-iframe {
-  border: 1px solid black;
-  width: 100%; 
-}
+
   /* Media queries for responsive footer */
   @media screen (576px) and (768px) and (992px) and (1200px)
   {
