@@ -337,6 +337,8 @@ Information about loyalty scheme and rewards
 ---
 
 ### Links/images used and references
+For gift/present emojis https://emojidb.org/gist-emojis
+emojidb.org
 Adobe Stock Images <br>
 Canva <br>
 Pexels
