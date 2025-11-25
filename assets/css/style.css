@@ -63,11 +63,11 @@ tr:nth-child(odd) {
 /* Bootsrap card customisation */
 .card {
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  
     background-color: #ffeada;
   font-family: 'league-spartan ';
-
 
 }
 
