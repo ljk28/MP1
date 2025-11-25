@@ -395,6 +395,9 @@ Image sizing:
 *"Figma Wireframe Tutorial for Beginners (2025)"*
 [https://www.youtube.com/watch?v=iyrEStiTZh0]
 
+Bootstrap Cards
+[https://getbootstrap.com/docs/5.0/components/card/]
+
 
 ## Programs/languages/applications/websites used in the construction;
 <ul>
