@@ -397,6 +397,8 @@ Image sizing:
 
 Bootstrap Cards
 [https://getbootstrap.com/docs/5.0/components/card/]
+Centering a card
+[https://www.educative.io/answers/how-to-center-cards-in-bootstrap-4]
 
 
 ## Programs/languages/applications/websites used in the construction;
