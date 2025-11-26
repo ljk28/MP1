@@ -106,9 +106,9 @@ tr:nth-child(odd) {
 
 
 #menu {
-      display: flex-start;
-  justify-content: flex-end;
-  align-items: flex-start;
+      display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
