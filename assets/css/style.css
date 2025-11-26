@@ -261,7 +261,7 @@ tr:nth-child(odd) {
 }
 
   /* Media queries for responsive footer */
-  @media screen (576px) and (768px) and (992px) and (1200px)
+  @media screen (300px) and (576px) and (768px) and (992px) and (1200px)
   {
   min-width: 100vh; 
   
@@ -269,42 +269,7 @@ tr:nth-child(odd) {
 
 /* reference for code above for responsive footer [https://reintech.io/blog/creating-responsive-footer-with-css]*/
 
-@media screen  (max-width: 300px)  {
-  .footer-content {
-    grid-template-columns: 1fr;
-    grid-gap: 40px;
-    (max-width: 100vh);
-  } 
-  
-}
 
-@media screen   (576px) and (max-width: 768px)  {
-  .footer-content {
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 30px;
-    (max-width: 100vh);
-  } 
-
-}
-
-@media screen {
-  (768px) and (max-width: 992px)  {
-  .footer-content {
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 20px;
-    (max-width: 100vh);
-  }
-}
-  
-@media screen  (1200px) and (max-width: 1400px)  {
-  .footer-content {
-    grid-template-columns: repeat(4, 1fr);
-    grid-gap: 15px;
-    (max-width: 100vh);
-  }
-}
-
-}
 /* Media queries for logo on navbar */
 
 
