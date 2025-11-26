@@ -375,6 +375,8 @@ Free preview images from ADOBE STOCK...
 <a href="https://www.pexels.com/photo/person-putting-cookie-on-wooden-surface-6119147/" target="_blank" rel="noopener">Photos by Andrijana Bozic on Unsplash (cookie)</a>
 
 
+Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7307029">Pete Linforth</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7307029">Pixabay</a>
+
 ---
 Tutorials/websites/videos used to help with the contruction of the website are as follows:
 
@@ -418,6 +420,7 @@ Centering a card
 <li>TINY PNG</li>
 <li>Shecodes.io</li>
 <li>ByteGrad</li>
+<li>Pixababy</li>
 </ul>
 ---
 
