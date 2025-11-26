@@ -66,6 +66,7 @@ tr:nth-child(odd) {
   flex-direction: row;
   text-align: center;
   justify-content: center;
+  
 }
 
 /* Bootsrap card customisation */
@@ -136,29 +137,27 @@ tr:nth-child(odd) {
  justify-content: center;
  align-items: center;
 }
-
-#i2 {
-    display: flex;
- justify-content: center;
- align-items: center;
-}
-
+/* Icons in footer - Please note the truck icon (i2) was removed and delivery times are now within opening times instead */
+/* Icons needed to be bigger and more visible to the user so the font size was adjusted for this  */
 #i3 {
     display: flex;
  justify-content: center;
  align-items: center;
+ font-size: 5em;
 }
 
 #i4 {
     display: flex;
  justify-content: center;
  align-items: center;
+ font-size: 5em;
 }
 
 #i5 {
     display: flex;
  justify-content: center;
  align-items: center;
+  font-size: 5em;
 }
 
 .smedia {
@@ -171,19 +170,21 @@ tr:nth-child(odd) {
 
   .footer {
     color: #E3AA75;
-    display: inline-flexbox;
+    display: flex;
     justify-content: space-around;
-    text-wrap: balance;
     background-color:#662c05;
     font-size: medium;
-    font-family: "League Spartan";
- 
+    font-family: "League Spartan"
  
 }
 
-#face, #insta, #twitter-x {
+
+
+#f, #t, #i {
   display: flex;
   color: #E3AA75;
+  font-size: 5rem;
+  margin-bottom: 20px;
 }
 
 
