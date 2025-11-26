@@ -2,28 +2,6 @@
   background-color: #FFEADA;
 }
 
-#toplogo {
-  display: flex-start;
-  justify-content: center;
-  position: absolute;
-  size: 2.5em;
-  background-size: contain;
-}
-
-#toplogo2 {
-  display: flex-end;
-  justify-content: center;
-  position: absolute;
-  size: 2em;
-}
-.pagelogo {
-  display: flex-end;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  size: 2em;
-}
-
 body, main, h1, h2, h3, p
 {
   font-family: "League Spartan";
@@ -37,6 +15,13 @@ body, main, h1, h2, h3, p
   font-style: normal;
 }
 
+#logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 
 table {
   font-family: "League Spartan";
@@ -59,6 +44,7 @@ tr:nth-child(odd) {
 
  img {
   display: flex;
+  align-items: center;
   justify-content: center;
   size: 2em;
  }
@@ -75,19 +61,18 @@ tr:nth-child(odd) {
   
 }
 
-/* Bootsrap card customisation */
+/* Bootstrap card customisation */
 .card {
   display: flex;
   align-items: center;
   justify-content: center;
-  
     background-color: #ffeada;
   font-family: 'league-spartan ';
   font-size: xx-large;
 
 }
 
-/* Below are the 'details', 'amount' and 'biscuit', 'pick-up' id's and classes which are additional to style and centre the order and home pages respectively */  
+/* Below are the 'amount' and 'biscuit', 'pick-up' id's and classes which are additional to style and centre the order and home pages respectively */  
 
 
 #biscuit {
@@ -181,7 +166,14 @@ tr:nth-child(odd) {
  
 }
 
-
+ /* Bootstrap carosuel size */ 
+#carouselExampleIndicators {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  margin: auto;
+}
 
 #f, #t, #i {
   display: flex;
@@ -205,7 +197,7 @@ tr:nth-child(odd) {
   justify-content: center;
   cursor: pointer;
   font-family: "League Spartan";
-  
+  margin-top: 10px;
 }
 
 /* The actual popup (appears on top) */
@@ -237,7 +229,7 @@ tr:nth-child(odd) {
   border-style: solid;
   border-color: #555 transparent transparent transparent;
   font-family: 'league-spartan';
-  font-size: 20px;
+  font-size: 50px;
 }
 
 #popupcode {
