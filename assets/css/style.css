@@ -60,6 +60,14 @@ tr:nth-child(odd) {
  "HTML & CSS for Absolute Beginners: Responsive images" 
  link in readme file */
   
+/* footer customisation */
+.footer-content {
+  display: grid;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+}
+
 /* Bootsrap card customisation */
 .card {
   display: flex;
@@ -173,7 +181,6 @@ tr:nth-child(odd) {
  
 }
 
-
 #face, #insta, #twitter-x {
   display: flex;
   color: #E3AA75;
@@ -261,6 +268,7 @@ tr:nth-child(odd) {
 
 /* reference for code for responsive footer [https://reintech.io/blog/creating-responsive-footer-with-css]*/
 /* Media queries for logo on navbar */
+
 
 
 
