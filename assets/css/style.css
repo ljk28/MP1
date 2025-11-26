@@ -3,19 +3,25 @@
 }
 
 #toplogo {
-  display: flex;
-  justify-self: center;
+  display: flex-start;
+  justify-content: center;
+  position: absolute;
+  size: 2.5em;
+  background-size: contain;
 }
 
 #toplogo2 {
-  display: flex;
+  display: flex-end;
   justify-content: center;
+  position: absolute;
+  size: 2em;
 }
 .pagelogo {
-  display: flex;
+  display: flex-end;
   justify-content: center;
   align-items: center;
-  max-inline-size: 100%;
+  position: absolute;
+  size: 2em;
 }
 
 body, main, h1, h2, h3, p
@@ -54,7 +60,7 @@ tr:nth-child(odd) {
  img {
   display: flex;
   justify-content: center;
-  max-inline-size: 100%;
+  size: 2em;
  }
  /* The above code for the img selector is from Kevin Powell's tutorial
  "HTML & CSS for Absolute Beginners: Responsive images" 
@@ -77,16 +83,11 @@ tr:nth-child(odd) {
   
     background-color: #ffeada;
   font-family: 'league-spartan ';
+  font-size: xx-large;
 
 }
 
 /* Below are the 'details', 'amount' and 'biscuit', 'pick-up' id's and classes which are additional to style and centre the order and home pages respectively */  
-.details {
-  display: grid;
-  justify-content: center;
-   text-align: center;
-   font-size: x-large;
-}
 
 
 #biscuit {
@@ -118,9 +119,11 @@ tr:nth-child(odd) {
  }
 
 
+
 #menu {
-      display: grid;
-  justify-content: center;
+      display: flex-start;
+  justify-content: flex-end;
+  align-items: flex-start;
 }
 
 
@@ -269,7 +272,42 @@ tr:nth-child(odd) {
 
 /* reference for code above for responsive footer [https://reintech.io/blog/creating-responsive-footer-with-css]*/
 
+@media screen  (max-width: 300px)  {
+  .footer-content {
+    grid-template-columns: 1fr;
+    grid-gap: 40px;
+    (max-width: 100vh);
+  } 
+  
+}
 
+@media screen   (576px) and (max-width: 768px)  {
+  .footer-content {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+    (max-width: 100vh);
+  } 
+
+}
+
+@media screen {
+  (768px) and (max-width: 992px)  {
+  .footer-content {
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    (max-width: 100vh);
+  }
+}
+  
+@media screen  (1200px) and (max-width: 1400px)  {
+  .footer-content {
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 15px;
+    (max-width: 100vh);
+  }
+}
+
+}
 /* Media queries for logo on navbar */
 
 
