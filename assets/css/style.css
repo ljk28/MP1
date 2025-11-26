@@ -269,6 +269,15 @@ tr:nth-child(odd) {
 
 /* reference for code above for responsive footer [https://reintech.io/blog/creating-responsive-footer-with-css]*/
 
+@media screen  (max-width: 300px)  {
+  .footer-content {
+    grid-template-columns: 1fr;
+    grid-gap: 40px;
+    (max-width: 100vh);
+  } 
+  
+}
+
 @media screen   (576px) and (max-width: 768px)  {
   .footer-content {
     grid-template-columns: repeat(2, 1fr);
