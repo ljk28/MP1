@@ -173,6 +173,14 @@ tr:nth-child(odd) {
  
 }
 
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+}
 
 #face, #insta, #twitter-x {
   display: flex;
