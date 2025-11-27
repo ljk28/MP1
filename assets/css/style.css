@@ -124,6 +124,7 @@ tr:nth-child(odd) {
   display: flex;
  justify-content: center;
  align-items: center;
+  font-size: 5em;
 }
 /* Icons in footer - Please note the truck icon (i2) was removed and delivery times are now within opening times instead */
 /* Icons needed to be bigger and more visible to the user so the font size was adjusted for this  */
@@ -148,15 +149,7 @@ tr:nth-child(odd) {
   font-size: 5em;
 }
 
-.smedia {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  color: #E3AA75;
-  font-size: 3rem;
-}
-
-
+/* Footer styling */
 
   .footer {
     color: #E3AA75;
@@ -165,7 +158,17 @@ tr:nth-child(odd) {
     justify-content: space-around;
     background-color:#662c05;
     font-size: medium;
-    font-family: "League Spartan"
+    font-family: "League Spartan";
+    padding: 10px 0 ;
+
+ 
+}
+
+#smedia {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
  
 }
 
@@ -178,9 +181,11 @@ tr:nth-child(odd) {
   margin: auto;
 }
 
-#f, #t, #i {
+#f {
   display: flex;
-  color: #E3AA75;
+  justify-content: center;
+  align-items: center;
+  background-color: #662c05;
   font-size: 5rem;
   margin-bottom: 20px;
 }
