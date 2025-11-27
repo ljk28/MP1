@@ -84,6 +84,12 @@ tr:nth-child(odd) {
 
 }
 
+.dropdown-menu {
+  display: flex;
+  background-color: #ffeada;
+  font-family: 'league-spartan ';
+  font-size: 2em; 
+}
 /* Below are the 'amount' and 'biscuit', 'pick-up' id's and classes which are additional to style and centre the order and home pages respectively */  
 
 
@@ -175,21 +181,25 @@ tr:nth-child(odd) {
   .footer {
     color: #E3AA75;
     display: flex;
+    justify-content: center;
     align-items: center;
-    justify-content: space-around;
     background-color:#662c05;
     font-size: medium;
     font-family: "League Spartan";
     padding: 10px 0 ;
-
- 
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
+
+
 
 #smedia {
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 3rem;
+  position: relative;
  
 }
 
@@ -301,6 +311,7 @@ tr:nth-child(odd) {
     grid-template-columns: 1fr;
     grid-gap: 40px;
     (max-width: 100vh);
+    position: relative;
   } 
   
 }
@@ -310,6 +321,7 @@ tr:nth-child(odd) {
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 30px;
     (max-width: 100vh);
+    position: relative;
   } 
 
 }
@@ -320,6 +332,7 @@ tr:nth-child(odd) {
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
     (max-width: 100vh);
+    position: relative;
   }
 }
   
@@ -328,11 +341,25 @@ tr:nth-child(odd) {
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 15px;
     (max-width: 100vh);
+    position: relative;
   }
 }
 
 }
-/* Media queries for logo on navbar */
+
+@media screen  (max-width: 300px)  and (576px) and (768px) and (992px) and (1200px){
+  .footer {
+    font-size: small;
+    position: relative;
+    color: #E3AA75;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#662c05;
+  } 
+}
+
+
 
 
 
