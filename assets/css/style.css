@@ -58,6 +58,9 @@ tr:nth-child(odd) {
   flex-direction: row;
   text-align: center;
   justify-content: center;
+  align-items: center;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
   
 }
 
@@ -69,6 +72,15 @@ tr:nth-child(odd) {
     background-color: #ffeada;
   font-family: 'league-spartan ';
   font-size: xx-large;
+
+}
+
+/* Dropdown menu customisation */
+.dropdown-item {
+  display: flex;
+  background-color: #ffeada;
+  font-family: 'league-spartan ';
+  font-size: 2em;
 
 }
 
@@ -124,6 +136,8 @@ tr:nth-child(odd) {
 
   background-color: #ffeada;
   font-family: 'league-spartan';
+  font-size: large;
+
 }
 
 
@@ -187,6 +201,9 @@ tr:nth-child(odd) {
   width: 600px;
   margin: auto;
 }
+
+/* Bootstrap menu  size */
+
 
 #f {
   display: flex;
@@ -252,7 +269,7 @@ tr:nth-child(odd) {
   font-family: 'league-spartan';
 
 } 
-/* Toggle this class when clicking on the popup container (hide and show the popup) */
+/* Toggle this class - hide and show the popup */
 .popup .show {
   visibility: visible;
   -webkit-animation: fadeIn 1s;
