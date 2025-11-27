@@ -429,6 +429,8 @@ Flexbox
 <li>Shecodes.io</li>
 <li>ByteGrad</li>
 <li>Pixababy</li>
+<li>Codepen.io</li>
+<li>Educative.io<li>
 </ul>
 ---
 
