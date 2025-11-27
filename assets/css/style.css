@@ -151,7 +151,9 @@ tr:nth-child(odd) {
 .smedia {
   display: flex;
   justify-content: space-around;
+  align-items: center;
   color: #E3AA75;
+  font-size: 3rem;
 }
 
 
@@ -159,6 +161,7 @@ tr:nth-child(odd) {
   .footer {
     color: #E3AA75;
     display: flex;
+    align-items: center;
     justify-content: space-around;
     background-color:#662c05;
     font-size: medium;
