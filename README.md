@@ -405,6 +405,12 @@ Centering a card
 Overflow scroll
 [https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Overflow]
 
+Z-index
+[https://css-tricks.com/almanac/properties/z/z-index/]
+
+Flexbox
+[https://coderpad.io/blog/development/a-guide-to-css-flexbox/#:~:text=You%20can%20set%20the%20direction,%2Dreverse%20and%20column%2Dreverse%20.]
+
 ## Programs/languages/applications/websites used in the construction;
 <ul>
 <li>W3Schools</li>

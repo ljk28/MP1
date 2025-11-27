@@ -251,11 +251,17 @@ tr:nth-child(odd) {
 }
 
 /* Popup container */
+#myPopup {
+  display: flex;
+  font-family: "League Spartan";
+}
+
 .popup {
   position: relative;
   display: flex;
   justify-content: center;
   cursor: pointer;
+  color: #662c05;
   font-family: "League Spartan";
   margin-top: 10px;
 }
@@ -264,39 +270,32 @@ tr:nth-child(odd) {
 .popup .popuptext {
   visibility: hidden;
   width: 160px;
-  background-color: #555;
-  color: #fff;
+  background-color: #662c05;
+  color: #ffffff;
   text-align: center;
   border-radius: 6px;
   padding: 8px 0;
   position: absolute;
-  z-index: 1;
-  bottom: 125%;
-  left: 50%;
-  margin-left: -80px;
   font-family: 'league-spartan';
   font-size: 1rem;
+  z-index: 1;
 }
 
 /* Popup arrow */
 .popup .popuptext::after {
+  display: flex;
+  justify-content: center;
   content: "";
-  position: absolute;
-  top: 100%;
+  position: relative;
+  top: 500%;
   left: 50%;
-  margin-left: -5px;
   border-width: 5px;
-  border-style: solid;
-  border-color: #555 transparent transparent transparent;
   font-family: 'league-spartan';
   font-size: 50px;
+  z-index: 1;
 }
 
-#popupcode {
-  font-size: 3em;
-  font-family: 'league-spartan';
 
-} 
 /* Toggle this class - hide and show the popup */
 .popup .show {
   visibility: visible;
