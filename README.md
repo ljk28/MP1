@@ -402,6 +402,8 @@ Bootstrap Cards
 Centering a card
 [https://www.educative.io/answers/how-to-center-cards-in-bootstrap-4]
 
+Overflow scroll
+[https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Overflow]
 
 ## Programs/languages/applications/websites used in the construction;
 <ul>

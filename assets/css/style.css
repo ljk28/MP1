@@ -192,31 +192,40 @@ tr:nth-child(odd) {
 
 #smedia {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
-  color: #662c05;
-  padding: 200px 100px;
+  color:#E3AA75;
   font-size: 3rem;
   position: relative;
-
  
 }
 
-#f {
+#insta {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-  font-size: 5rem;
-  margin-bottom: 20px;
+  color: #E3AA75;
+  font-size: 4rem;
+  position: relative;
+ 
 }
 
-#insta, #twitter-x, #face {
+#face {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-  color: #662c05;
-  font-size: 3rem;
- 
+  color: #E3AA75;
+  font-size: 4rem;
+  position: relative;
+}
+
+#twitter-x {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #E3AA75;
+  font-size: 4rem;
+  position: relative;
 }
 
  /* Bootstrap carosuel size */ 
@@ -369,6 +378,21 @@ tr:nth-child(odd) {
   } 
 }
 
+@media screen  (576px) and (max-width: 768px) and (992px) and (1200px){
+  #smedia, #insta, #face, #twitter-x {
+    font-size: medium;
+    position: relative;
+    color: #E3AA75;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#662c05;
+    overflow: scroll;
+  } 
+  
+}
+
+/* End of footer responsive code */
 
 
 
