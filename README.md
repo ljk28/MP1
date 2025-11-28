@@ -401,6 +401,8 @@ Bootstrap Cards
 [https://getbootstrap.com/docs/5.0/components/card/]
 Centering a card
 [https://www.educative.io/answers/how-to-center-cards-in-bootstrap-4]
+Sizing cards
+[https://getbootstrap.com/docs/4.3/components/buttons/]
 
 Overflow scroll
 [https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Overflow]
