@@ -479,45 +479,6 @@ The reason for doing this is to prevent ambiguity for the user and show clearly 
 <em>Footer issue with content overflow when on smaller screens was resolved by using flex values taken from ...
 https://thelinuxcode.com/how-to-keep-your-footer-where-it-belongs-an-in-depth-guide-for-beginners/#google_vignette<em>
 
-## Lighthouse Issues 
-The lighthouse results for the new design with Bootsrap  cards and images had performance issues. 
-I had to use an alternative to TinyPNG to compresss the image of the boxes of cookies referenced below:<br>
-https://shortpixel.com/online-image-compression
-
-The new results for mobile were as follows:
-
-<img src="documentation/lighthouse/about.jpeg">
-<img src="documentation/lighthouse/faq.jpeg">
-<img src="documentation/lighthouse/prices.jpeg">
-<img src="documentation/lighthouse/order.jpeg">
-<img src="documentation/lighthouse/sucesss.jpeg">
-<img src="documentation/lighthouse/testimonies.jpeg">
-<img src="documentation/lighthouse/index.jpeg">
-
-And for the desktop results they were...
-
-<img src="">
-
-## Validation
-<p style="color:yellow">
-Validation For CSS and HTML
-</p>
-CSS returned the following:
-<img src="documentation/css-test.jpeg">
-
- <p style="color:yellow">Addressing validaton and correcting errors</p>
-
-After centering and aligning the logo on each page and making the font bigger and also including details/summary tags. Along with changing thr backgroun image I ran the lighthouse test again.
-
-For the mobile lighthouse returned...
-
-![lighthouse-mob](<Lighthouse screenshots.jpeg>)
-
-For desktop lighthouse returned ...
-![lighthouse-desktop](<Biscuit Family Bokery .Est 2015.jpeg>)
-
-![lighthouse-desktop-2](100.jpeg)
-
 The next part was the HTML validation...
 
 For the index page...
@@ -576,6 +537,55 @@ And the order success page...
 <img src="documentation/html-test/order-success/order-success-5.jpeg">
 <img src="documentation/html-test/order-success/order-success-6.jpeg">
 
+
+
+## Validation
+<p style="color:yellow">
+Validation For CSS and HTML
+</p>
+CSS returned the following:
+<img src="documentation/css-test.jpeg">
+
+ <p style="color:yellow">Addressing validaton and correcting errors</p>
+
+After centering and aligning the logo on each page and making the font bigger and also including details/summary tags. Along with changing the background image I ran the lighthouse test again.
+
+For the mobile lighthouse returned...
+
+![lighthouse-mob](<Lighthouse screenshots.jpeg>)
+
+For desktop lighthouse returned ...
+![lighthouse-desktop](<Biscuit Family Bokery .Est 2015.jpeg>)
+
+![lighthouse-desktop-2](100.jpeg)
+
+## Lighthouse Issues revisited
+The lighthouse results for the new design with Bootsrap  cards and images had performance issues. 
+I had to use an alternative to TinyPNG to compresss the image of the boxes of cookies referenced below:<br>
+https://shortpixel.com/online-image-compression
+
+The new results for mobile were as follows:
+
+<img src="documentation/lighthouse/about.jpeg">
+<img src="documentation/lighthouse/faq.jpeg">
+<img src="documentation/lighthouse/prices.jpeg">
+<img src="documentation/lighthouse/order.jpeg">
+<img src="documentation/lighthouse/sucesss.jpeg">
+<img src="documentation/lighthouse/testimonies.jpeg">
+<img src="documentation/lighthouse/index.jpeg">
+
+And for the desktop results they were...
+
+<img src="documentation/lighthouse/desktop-about.jpeg">
+<img src="documentation/lighthouse/desktop-prices.jpeg">
+<img src="documentation/lighthouse/desktop-order.jpeg">
+<img src="documentation/lighthouse/desktop-success.jpeg">
+<img src="documentation/lighthouse/desktop-index.jpeg">
+<img src="documentation/lighthouse/desktop-gallery.jpeg">
+<img src="documentation/lighthouse/testimonies.jpeg">
+<img src="documentation/lighthouse/desktop-faq.jpeg">
+
+
 ### Deploying the website
 
 <ol>
@@ -584,6 +594,9 @@ And the order success page...
 <li>Save changes.</li>
 </ol>
 <br>
+
+I had to compress the images and the logo to reach acceptable levels for lighthouse returns.
+
 
 For further help refer to the following:<br>
 
