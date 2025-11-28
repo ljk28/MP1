@@ -26,6 +26,13 @@ body, main, h1, h2, h3, p
   margin-bottom: 20px;
 }
 
+#toplogo2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  
+}
 /* Table customisation */
 
 table {
