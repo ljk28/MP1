@@ -5,6 +5,7 @@
 body, main, h1, h2, h3, p
 {
   font-family: "League Spartan";
+  font-size: 2rem;
   
 }
 
@@ -46,7 +47,14 @@ tr:nth-child(odd) {
   text-align: center;
  }
 
+ /* table cell padding */
+ td, th {
+  padding: 15px;
+ }
 
+ td, th {
+  font-size: 1.5em;
+ }
  /*Code for the img selector is from Kevin Powell's tutorial
  "HTML & CSS for Absolute Beginners: Responsive images" 
  link in readme file */
