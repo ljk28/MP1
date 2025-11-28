@@ -416,6 +416,9 @@ Flexbox
 Overflow and Footer issues...
 [https://thelinuxcode.com/how-to-keep-your-footer-where-it-belongs-an-in-depth-guide-for-beginners/#google_vignette]
 
+Responsive images
+[https://www.w3schools.com/css/css_rwd_images.asp]
+
 ## Programs/languages/applications/websites used in the construction;
 <ul>
 <li>W3Schools</li>
