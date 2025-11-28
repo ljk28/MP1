@@ -17,10 +17,13 @@ body, main, h1, h2, h3, p, label
 #biscuit-logo {
   display: flex;
   justify-content: center;
-  max-width: 200px;
+  align-items: center;
+  max-width: 250px;
   margin-top: 20px;
-  margin-bottom: auto;
-  margin-left: 8.2rem;
+  margin-bottom: 20px;
+  margin-left: 32em;
+  margin-right: 0;
+
 }
 
 /* p class for footer text */
@@ -38,15 +41,6 @@ body, main, h1, h2, h3, p, label
   font-style: normal;
 }
 
-
-#toplogo2 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  size: 10rem;
-  margin-top: 100px;
-  
-}
 /* Table customisation */
 
 table {

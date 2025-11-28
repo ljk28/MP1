@@ -484,6 +484,19 @@ The lighthouse results for the new design with Bootsrap  cards and images had pe
 I had to use an alternative to TinyPNG to compresss the image of the boxes of cookies referenced below:<br>
 https://shortpixel.com/online-image-compression
 
+The new results for mobile were as follows:
+
+<img src="documentation/lighthouse/about.jpeg">
+<img src="documentation/lighthouse/faq.jpeg">
+<img src="documentation/lighthouse/prices.jpeg">
+<img src="documentation/lighthouse/order.jpeg">
+<img src="documentation/lighthouse/sucesss.jpeg">
+<img src="documentation/lighthouse/testimonies.jpeg">
+<img src="documentation/lighthouse/index.jpeg">
+
+And for the desktop results they were...
+
+<img src="">
 
 ## Validation
 <p style="color:yellow">
