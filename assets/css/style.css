@@ -8,9 +8,7 @@ body, main, h1, h2, h3, p
   
 }
 
-html, body {
-  padding-bottom: 80px; /* Footer height */
-}
+
 
 .league-spartan {
   font-family: "League Spartan", sans-serif;
@@ -161,6 +159,8 @@ tr:nth-child(odd) {
  justify-content: center;
  align-items: center;
   font-size: 5em;
+  padding-right: 1rem;
+  
 }
 
 #i3 {
@@ -168,6 +168,7 @@ tr:nth-child(odd) {
  justify-content: center;
  align-items: center;
  font-size: 5em;
+  padding-right: 1rem;
 }
 
 #i4 {
@@ -175,6 +176,7 @@ tr:nth-child(odd) {
  justify-content: center;
  align-items: center;
  font-size: 5em;
+ padding-right: 1rem;
 }
 
 #i5 {
@@ -182,11 +184,13 @@ tr:nth-child(odd) {
  justify-content: center;
  align-items: center;
   font-size: 5em;
+  padding-right: 1rem;
 }
 
 /* Footer styling */
 /* The flex 1 and overflow properties taken and adapted from https://thelinuxcode.com/how-to-keep-your-footer-where-it-belongs-an-in-depth-guide-for-beginners/#google_vignette /*/
 .footer-content {
+ background-color:  #662c05;
   display: flex;
   position: relative;
    flex-flow: row wrap;
@@ -194,6 +198,8 @@ tr:nth-child(odd) {
   align-items: center;
    overflow: auto;
   flex: 1;
+   padding: 10px 100px;
+  padding-top: 80px;
     
 }
 
@@ -205,9 +211,10 @@ tr:nth-child(odd) {
     justify-content: space-between;
     align-items: center;
     background-color:#662c05;
-    font-size: medium;
+    margin-top: auto;
+    font-size: large;
     font-family: "League Spartan";
-    padding: 10px 100px; ;
+    padding: 10px 100px; 
      overflow: auto;
   flex: 1;
   padding-bottom: 80px;
@@ -217,12 +224,16 @@ tr:nth-child(odd) {
 
 #smedia {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
+  flex-flow: row;
   color:#E3AA75;
   font-size: 3rem;
   position: relative;
- 
+  padding-bottom: 5rem;
+  padding-left: 15rem;
+    overflow: auto;
+ flex: 1;
 
 }
 
@@ -233,6 +244,7 @@ tr:nth-child(odd) {
   color: #E3AA75;
   font-size: 4rem;
   position: relative;
+  margin-left: 2rem;
  
 }
 
@@ -243,6 +255,7 @@ tr:nth-child(odd) {
   color: #E3AA75;
   font-size: 4rem;
   position: relative;
+  margin-left: 2rem;
 }
 
 #twitter-x {
@@ -252,6 +265,7 @@ tr:nth-child(odd) {
   color: #E3AA75;
   font-size: 4rem;
   position: relative;
+  margin-left: 2rem;
 }
 
 
@@ -260,6 +274,42 @@ tr:nth-child(odd) {
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-columns: minmax(0, 1fr); 
+}
+
+#times {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "League Spartan";
+  position: relative;
+}
+
+#contactinfo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "League Spartan";
+  position: relative;
+}
+
+#email {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "League Spartan";
+  position: relative;
+}
+
+#address {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "League Spartan";
+  position: relative;
 }
 
 /* Popup container */
