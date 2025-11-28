@@ -624,6 +624,16 @@ And for the HTML pages...
 <img src="documentation/validation-2/order-6.jpeg">
 <img src="documentation/validation-2/order-7.jpeg">
 
+### Order Succcess page
+
+<img src="documentation/validation-2/success-1.jpeg">
+<img src="documentation/validation-2/success-2.jpeg">
+<img src="documentation/validation-2/success-3.jpeg">
+<img src="documentation/validation-2/success-4.jpeg">
+
+
+### Prices Page
+<img src="documentation/validation-2/success-1.jpeg">
 
 ### Deploying the website
 
