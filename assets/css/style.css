@@ -12,6 +12,17 @@ body, main, h1, h2, h3, p, label
   
 }
 
+/* Biscuit logo image sizing */
+
+#biscuit-logo {
+  display: flex;
+  justify-content: center;
+  max-width: 200px;
+  margin-top: 20px;
+  margin-bottom: auto;
+  margin-left: 8.5rem;
+}
+
 /* p class for footer text */
 .foot {
   font-family: "League Spartan";
@@ -27,18 +38,12 @@ body, main, h1, h2, h3, p, label
   font-style: normal;
 }
 
-#logo {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
 
 #toplogo2 {
   display: flex;
   align-items: center;
   justify-content: center;
+  size: 10rem;
   margin-top: 100px;
   
 }
@@ -79,7 +84,7 @@ tr:nth-child(odd) {
   display: flex;
   align-items: center;
   justify-content: center;
-  size: 50em;
+  size: 50%;
  }
 
  /* Bootstrap carosuel size */ 
