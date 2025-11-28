@@ -585,6 +585,12 @@ And for the desktop results they were...
 <img src="documentation/lighthouse/testimonies.jpeg">
 <img src="documentation/lighthouse/desktop-faq.jpeg">
 
+## HTML/CSS validator Revisited
+A new design with new code needed more tests. 
+Here are the results for CSS...
+
+<img src="documentation/validation-2/css.jpeg">
+<img src="documentation/validation-2/css-2.jpeg">
 
 ### Deploying the website
 
