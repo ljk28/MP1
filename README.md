@@ -560,7 +560,7 @@ For desktop lighthouse returned ...
 ![lighthouse-desktop-2](100.jpeg)
 
 ## Lighthouse Issues revisited
-The lighthouse results for the new design with Bootsrap  cards and images had performance issues. 
+The lighthouse results for the new design with Bootstrap  cards and images had performance issues. 
 I had to use an alternative to TinyPNG to compresss the image of the boxes of cookies referenced below:<br>
 https://shortpixel.com/online-image-compression
 
@@ -633,7 +633,22 @@ And for the HTML pages...
 
 
 ### Prices Page
-<img src="documentation/validation-2/success-1.jpeg">
+<img src="documentation/validation-2/prices-1.jpeg">
+<img src="documentation/validation-2/prices-2.jpeg">
+<img src="documentation/validation-2/prices-3.jpeg">
+<img src="documentation/validation-2/prices-4.jpeg">
+
+### Testimonies 
+
+<img src="documentation/validation-2/testimonies-1.jpeg">
+<img src="documentation/validation-2/testimonies-2.jpeg">
+
+### About Page
+
+<img src="documentation/validation-2/about-1.jpeg">
+<img src="documentation/validation-2/about-2.jpeg">
+<img src="documentation/validation-2/about-3.jpeg">
+<img src="documentation/validation-2/about-4.jpeg">
 
 ### Deploying the website
 
