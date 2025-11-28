@@ -434,6 +434,7 @@ Overflow and Footer issues...
 <li>Pixababy</li>
 <li>Codepen.io</li>
 <li>Educative.io<li>
+<li>The linux Code</li>
 </ul>
 ---
 
@@ -468,6 +469,9 @@ Lighthouse flagged SEO as an issue. With the icons and also accessibilty. I have
 
 With the use of the summary and details tag/elements I decided to remove the FAQ section from the order page and for clarity, place the FAQ section within the home page instead. 
 The reason for doing this is to prevent ambiguity for the user and show clearly WITHOUT having to navigate to another page, the needed information at a moments notice.
+
+<em>Footer issue with content overflow when on smaller screens was resolved by using flex values taken from ...
+https://thelinuxcode.com/how-to-keep-your-footer-where-it-belongs-an-in-depth-guide-for-beginners/#google_vignette<em>
 
 ## Validation
 <p style="color:yellow">
