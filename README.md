@@ -435,6 +435,7 @@ Overflow and Footer issues...
 <li>Codepen.io</li>
 <li>Educative.io<li>
 <li>The linux Code</li>
+<li>Shortpixel.com</li>
 </ul>
 ---
 
@@ -472,6 +473,12 @@ The reason for doing this is to prevent ambiguity for the user and show clearly 
 
 <em>Footer issue with content overflow when on smaller screens was resolved by using flex values taken from ...
 https://thelinuxcode.com/how-to-keep-your-footer-where-it-belongs-an-in-depth-guide-for-beginners/#google_vignette<em>
+
+## Lighthouse Issues 
+The lighthouse results for the new design with Bootsrap  cards and images had performance issues. 
+I had to use an alternative to TinyPNG to compresss the image of the boxes of cookies referenced below:<br>
+https://shortpixel.com/online-image-compression
+
 
 ## Validation
 <p style="color:yellow">
