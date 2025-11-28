@@ -2,6 +2,8 @@
   background-color: #FFEADA;
 }
 
+/* Font customisation for body, main, h1, h2, h3, p and label elements */
+
 body, main, h1, h2, h3, p, label
 {
   font-family: "League Spartan";
