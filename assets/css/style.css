@@ -135,6 +135,13 @@ tr:nth-child(odd) {
    text-align: center;
 }
 
+#order-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "League Spartan";
+}
+
 /* labels class for the dropwdown have been added to style here too. */
 
 .order {
