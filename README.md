@@ -592,6 +592,39 @@ Here are the results for CSS...
 <img src="documentation/validation-2/css.jpeg">
 <img src="documentation/validation-2/css-2.jpeg">
 
+And for the HTML pages...
+### Index page
+<img src="documentation/validation-2/index-1.jpeg">
+<img src="documentation/validation-2/index-2.jpeg">
+<img src="documentation/validation-2/index-3.jpeg">
+<img src="documentation/validation-2/index-4.jpeg">
+<img src="documentation/validation-2/index-5.jpeg">
+
+### FAQ page
+
+<img src="documentation/validation-2/faq-1.jpeg">
+<img src="documentation/validation-2/faq-2.jpeg">
+<img src="documentation/validation-2/faq-3.jpeg">
+<img src="documentation/validation-2/faq-4.jpeg">
+
+### Gallery
+
+<img src="documentation/validation-2/gallery-1.jpeg">
+<img src="documentation/validation-2/gallery-2.jpeg">
+<img src="documentation/validation-2/gallery-3.jpeg">
+<img src="documentation/validation-2/gallery-4.jpeg">
+
+### Order Page
+
+<img src="documentation/validation-2/order-1.jpeg">
+<img src="documentation/validation-2/order-2.jpeg">
+<img src="documentation/validation-2/order-3.jpeg">
+<img src="documentation/validation-2/order-4.jpeg">
+<img src="documentation/validation-2/order-5.jpeg">
+<img src="documentation/validation-2/order-6.jpeg">
+<img src="documentation/validation-2/order-7.jpeg">
+
+
 ### Deploying the website
 
 <ol>
