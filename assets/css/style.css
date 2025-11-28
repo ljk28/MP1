@@ -70,7 +70,7 @@ tr:nth-child(odd) {
   display: flex;
   align-items: center;
   justify-content: center;
-  size: 2em;
+  size: 50em;
  }
 
  /* Bootstrap carosuel size */ 
@@ -334,6 +334,8 @@ tr:nth-child(odd) {
 #myPopup {
   display: flex;
   font-family: "League Spartan";
+  justify-content: center;
+  align-items: center;
 }
 
 .popup {
@@ -344,12 +346,13 @@ tr:nth-child(odd) {
   color: #662c05;
   font-family: "League Spartan";
   margin-top: 10px;
+  size: 100px;
 }
 
 /* The actual popup (appears on top) */
 .popup .popuptext {
   visibility: hidden;
-  width: 160px;
+  size: 200px;
   background-color: #662c05;
   color: #ffffff;
   text-align: center;
@@ -359,6 +362,7 @@ tr:nth-child(odd) {
   font-family: 'league-spartan';
   font-size: 1rem;
   z-index: 1;
+  size: 100px;
 }
 
 /* Popup arrow */
@@ -373,6 +377,8 @@ tr:nth-child(odd) {
   font-family: 'league-spartan';
   font-size: 50px;
   z-index: 1;
+  
+  
 }
 
 
