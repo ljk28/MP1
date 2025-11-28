@@ -411,6 +411,9 @@ Z-index
 Flexbox
 [https://coderpad.io/blog/development/a-guide-to-css-flexbox/#:~:text=You%20can%20set%20the%20direction,%2Dreverse%20and%20column%2Dreverse%20.]
 
+Overflow and Footer issues...
+[https://thelinuxcode.com/how-to-keep-your-footer-where-it-belongs-an-in-depth-guide-for-beginners/#google_vignette]
+
 ## Programs/languages/applications/websites used in the construction;
 <ul>
 <li>W3Schools</li>
@@ -419,7 +422,7 @@ Flexbox
 <li>Bootstrap</li>
 <li>HTML</li>
 <li>CSS</li>
-<li>Javascipt (with Bootstrap script</li>
+<li>Javascipt with Bootstrap script</li>
 <li>Figma</li>
 <li>Canva</li>
 <li>Google Fonts</li>

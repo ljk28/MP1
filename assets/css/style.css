@@ -8,6 +8,10 @@ body, main, h1, h2, h3, p
   
 }
 
+html, body {
+  padding-bottom: 80px; /* Footer height */
+}
+
 .league-spartan {
   font-family: "League Spartan", sans-serif;
   font-optical-sizing: auto;
@@ -22,6 +26,8 @@ body, main, h1, h2, h3, p
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+/* Table customisation */
 
 table {
   font-family: "League Spartan";
@@ -42,33 +48,37 @@ tr:nth-child(odd) {
   text-align: center;
  }
 
- img {
+
+ /*Code for the img selector is from Kevin Powell's tutorial
+ "HTML & CSS for Absolute Beginners: Responsive images" 
+ link in readme file */
+
+  img {
   display: flex;
   align-items: center;
   justify-content: center;
   size: 2em;
  }
- /* The above code for the img selector is from Kevin Powell's tutorial
- "HTML & CSS for Absolute Beginners: Responsive images" 
- link in readme file */
-  
-/* footer customisation */
-.footer-content {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  overflow: scroll;
-}
 
+ /* Bootstrap carosuel size */ 
+#carouselExampleIndicators {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  margin: auto;
+}
 /* Bootstrap card customisation */
 .card {
   display: flex;
   align-items: center;
+  position: relative;
   justify-content: center;
     background-color: #ffeada;
   font-family: 'league-spartan ';
   font-size: xx-large;
+
 
 }
 
@@ -143,6 +153,8 @@ tr:nth-child(odd) {
 
 }
 
+/* Icons in footer - Please note the truck icon (i2) was removed and delivery times are now within opening times instead */
+/* Icons needed to be bigger and more visible to the user so the font size was adjusted for this  */
 
 #i {
   display: flex;
@@ -150,8 +162,7 @@ tr:nth-child(odd) {
  align-items: center;
   font-size: 5em;
 }
-/* Icons in footer - Please note the truck icon (i2) was removed and delivery times are now within opening times instead */
-/* Icons needed to be bigger and more visible to the user so the font size was adjusted for this  */
+
 #i3 {
     display: flex;
  justify-content: center;
@@ -174,21 +185,35 @@ tr:nth-child(odd) {
 }
 
 /* Footer styling */
+/* The flex 1 and overflow properties taken and adapted from https://thelinuxcode.com/how-to-keep-your-footer-where-it-belongs-an-in-depth-guide-for-beginners/#google_vignette /*/
+.footer-content {
+  display: flex;
+  position: relative;
+   flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+   overflow: auto;
+  flex: 1;
+    
+}
 
   .footer {
     color: #E3AA75;
     display: flex;
+    position: relative;
+      flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
     background-color:#662c05;
     font-size: medium;
     font-family: "League Spartan";
     padding: 10px 100px; ;
-    position: relative;
+     overflow: auto;
+  flex: 1;
+  padding-bottom: 80px;
     
+
 }
-
-
 
 #smedia {
   display: flex;
@@ -198,6 +223,7 @@ tr:nth-child(odd) {
   font-size: 3rem;
   position: relative;
  
+
 }
 
 #insta {
@@ -227,20 +253,6 @@ tr:nth-child(odd) {
   font-size: 4rem;
   position: relative;
 }
-
- /* Bootstrap carosuel size */ 
-#carouselExampleIndicators {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 600px;
-  margin: auto;
-}
-
-/* Bootstrap menu  size */
-
-
-
 
 
 .site {
