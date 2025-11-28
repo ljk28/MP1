@@ -115,14 +115,23 @@ tr:nth-child(odd) {
 
 #biscuit {
   text-align: center;
+  font-family: "League Spartan";
 }
 
 #amount {
   text-align: center;
+  font-family: "League Spartan";
 }
 
 #pick-up {
   font-display: center;
+  font-family: "League Spartan";
+   text-align: center;
+}
+
+#total {
+  font-display: center;
+  font-family: "League Spartan";
    text-align: center;
 }
 
@@ -131,10 +140,12 @@ tr:nth-child(odd) {
 .order {
   font-size: larger;
   font-weight: bold;
+  font-family: "League Spartan";
 }
 
  #gallery, p {
   text-align: center;
+  font-family: "League Spartan";
  }
 
  #home, h1, h3, h4 {
@@ -164,6 +175,22 @@ tr:nth-child(odd) {
   font-family: 'league-spartan';
   font-size: large;
 
+}
+
+/*
+Order page button styling 
+*/
+.btn-secondary {
+  background-color: #662c05;
+  color: #E3AA75;
+  font-family: 'league-spartan';
+  font-size: 5rem;
+  border: none;
+}
+.btn-secondary:hover {
+  background-color: #E3AA75;
+  color: #662c05; 
+  font-family: 'league-spartan';    
 }
 
 /* Icons in footer - Please note the truck icon (i2) was removed and delivery times are now within opening times instead */
